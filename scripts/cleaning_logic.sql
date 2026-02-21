@@ -13,8 +13,7 @@ CREATE TABLE raw_sales_data (
     qty_sold INT,
     competitor_price FLOAT,
     lead_time_days INT,
-    customer_feedback TEXT
-);
+    customer_feedback TEXT);
 
 -- 2. The Cleaning Transformation
 -- We use a CTE to demonstrate a clear pipeline for recruiters
