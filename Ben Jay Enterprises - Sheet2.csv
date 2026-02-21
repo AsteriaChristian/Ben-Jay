@@ -1,0 +1,1501 @@
+Date,Product_Name,Category,Location,Unit_Price_NGN,Qty_Sold,Daily_Total_NGN,Competitor_Price,Price_Gap_Pct,Delivery_Status
+2025-01-01,Beans Brown (Oloyin),Grains,Abuja,4500,16,72000,3200,40.6,Critical Delay
+2025-01-01,Local Rice (50kg),Grains,Enugu,120000,17,2040000,105000,14.3,On-Time
+2025-01-01,Dangote Sugar 1kg,Sweeteners,Lagos (Lekki),4000,16,64000,3200,25,Delayed
+2025-01-01,Dangote Sugar 1kg,Sweeteners,Lagos (Ikeja),4000,2,8000,3200,25,On-Time
+2025-01-02,Yam Tuber (Large),Produce,Port Harcourt,12000,23,276000,8000,50,On-Time
+2025-01-02,Beans Brown (Oloyin),Grains,Port Harcourt,4500,-2,0,3200,40.6,Delayed
+2025-01-02,Frozen Turkey (kg),Meat,Abuja,11000,23,253000,8800,25,Critical Delay
+2025-02-01,Indomie Super Pack,Noodles,Enugu,20000,21,420000,16800,19,Critical Delay
+2025-01-03,Milo Refill 500g,Beverages,Abuja,7200,6,43200,6000,20,On-Time
+2025-01-03,Indomie Super Pack,Noodles,Lagos (Ikeja),20000,13,260000,16800,19,On-Time
+2025-03-01,Yellow Garri (Paint),Tubers,Kano,5500,14,77000,4200,31,Delayed
+2025-01-03,Kings Oil 5L,Oils,Kano,27000,29,783000,21500,25.6,Critical Delay
+2025-04-01,Local Rice (50kg),Grains,Abuja,119500,23,2748500,105000,13.8,Delayed
+2025-01-04,Power Oil (Sachet),Oils,Lagos (Lekki),500,30,15000,400,25,On-Time
+2025-01-04,Semovita 10kg,Swallow,Kano,10500,2,21000,9200,14.1,On-Time
+2025-01-04,Frozen Turkey (kg),Meat,Lagos (Lekki),11000,22,242000,8800,25,Delayed
+2025-01-05,Milo Refill 500g,Beverages,Ibadan,7200,16,115200,6000,20,Critical Delay
+2025-01-05,Peak Milk 400g,Dairy,Ibadan,5800,10,58000,4900,18.4,Critical Delay
+2025-01-05,Indomie Super Pack,Noodles,Kano,20000,30,600000,16800,19,On-Time
+2025-05-01,Yellow Garri (Paint),Tubers,Port Harcourt,5500,14,77000,4200,31,Critical Delay
+2025-01-06,Frozen Turkey (kg),Meat,Lagos (Lekki),11000,22,242000,8800,25,On-Time
+2025-06-01,Local Rice (50kg),Grains,Kano,120000,19,2280000,105000,14.3,Delayed
+2025-06-01,Kings Oil 5L,Oils,Enugu,27000,8,216000,21500,25.6,On-Time
+2025-01-06,Beans Brown (Oloyin),Grains,Lagos (Lekki),4500,-2,0,3200,40.6,Delayed
+2025-07-01,Power Oil (Sachet),Oils,Abuja,500,26,13000,400,25,Critical Delay
+2025-01-07,Peak Milk 400g,Dairy,Enugu,5800,21,121800,4900,18.4,Critical Delay
+2025-07-01,Yam Tuber (Large),Produce,Lagos (Lekki),12000,10,120000,8000,50,On-Time
+2025-07-01,Yam Tuber (Large),Produce,Enugu,12000,26,312000,8000,50,Delayed
+2025-01-08,Yellow Garri (Paint),Tubers,Abuja,5500,28,154000,4200,31,Delayed
+2025-08-01,Beans Brown (Oloyin),Grains,Enugu,4500,6,27000,3200,40.6,On-Time
+2025-01-08,Kings Oil 5L,Oils,Kano,27000,-1,0,21500,25.6,On-Time
+2025-01-08,Local Rice (50kg),Grains,Kano,120000,16,1920000,105000,14.3,On-Time
+2025-09-01,Indomie Super Pack,Noodles,Enugu,20000,30,600000,16800,19,Delayed
+2025-09-01,Dangote Sugar 1kg,Sweeteners,Enugu,4000,25,100000,3200,25,On-Time
+2025-01-09,Peak Milk 400g,Dairy,Port Harcourt,5800,26,150800,4900,18.4,Critical Delay
+2025-09-01,Beans Brown (Oloyin),Grains,Abuja,4000,9,36000,3200,25,On-Time
+2025-01-10,Semovita 10kg,Swallow,Lagos (Ikeja),10000,10,100000,9200,8.7,Delayed
+2025-01-10,Semovita 10kg,Swallow,Lagos (Ikeja),10500,0,0,9200,14.1,Critical Delay
+2025-01-10,Frozen Turkey (kg),Meat,Enugu,11000,11,121000,8800,25,Delayed
+2025-10-01,Milo Refill 500g,Beverages,Ibadan,7200,13,93600,6000,20,On-Time
+2025-01-11,Yellow Garri (Paint),Tubers,Lagos (Lekki),5500,0,0,4200,31,On-Time
+2025-01-11,Frozen Turkey (kg),Meat,Abuja,10500,16,168000,8800,19.3,Delayed
+2025-11-01,Yam Tuber (Large),Produce,Lagos (Ikeja),12000,19,228000,8000,50,Delayed
+2025-11-01,Yellow Garri (Paint),Tubers,Lagos (Ikeja),5500,-1,0,4200,31,On-Time
+2025-01-12,Indomie Super Pack,Noodles,Lagos (Ikeja),20000,8,160000,16800,19,On-Time
+2025-01-12,Yam Tuber (Large),Produce,Enugu,12000,21,252000,8000,50,On-Time
+2025-12-01,Semovita 10kg,Swallow,Port Harcourt,10500,1,10500,9200,14.1,Critical Delay
+2025-01-12,Semovita 10kg,Swallow,Port Harcourt,10500,21,220500,9200,14.1,Delayed
+2025-01-13,Frozen Turkey (kg),Meat,Abuja,11000,9,99000,8800,25,On-Time
+2025-01-13,Yam Tuber (Large),Produce,Enugu,12000,28,336000,8000,50,Critical Delay
+2025-01-13,Milo Refill 500g,Beverages,Port Harcourt,7200,8,57600,6000,20,Delayed
+2025-01-13,Kings Oil 5L,Oils,Kano,27000,18,486000,21500,25.6,On-Time
+2025-01-14,Kings Oil 5L,Oils,Abuja,27000,6,162000,21500,25.6,On-Time
+2025-01-14,Yellow Garri (Paint),Tubers,Ibadan,5500,23,126500,4200,31,Delayed
+2025-01-14,Semovita 10kg,Swallow,Lagos (Lekki),10500,29,304500,9200,14.1,Delayed
+2025-01-14,Dangote Sugar 1kg,Sweeteners,Lagos (Lekki),4000,7,28000,3200,25,On-Time
+2025-01-15,Peak Milk 400g,Dairy,Kano,5800,7,40600,4900,18.4,Delayed
+2025-01-15,Yam Tuber (Large),Produce,Lagos (Ikeja),12000,20,240000,8000,50,On-Time
+2025-01-15,Milo Refill 500g,Beverages,Enugu,7200,16,115200,6000,20,Critical Delay
+2025-01-15,Local Rice (50kg),Grains,Ibadan,120000,19,2280000,105000,14.3,Critical Delay
+2025-01-16,Yam Tuber (Large),Produce,Port Harcourt,12000,26,312000,8000,50,On-Time
+2025-01-16,Local Rice (50kg),Grains,Ibadan,120000,6,720000,105000,14.3,Delayed
+2025-01-16,Power Oil (Sachet),Oils,Port Harcourt,500,28,14000,400,25,Delayed
+2025-01-16,Frozen Turkey (kg),Meat,Kano,11000,7,77000,8800,25,Critical Delay
+2025-01-17,Kings Oil 5L,Oils,Kano,27000,25,675000,21500,25.6,Delayed
+2025-01-17,Dangote Sugar 1kg,Sweeteners,Enugu,4000,19,76000,3200,25,Delayed
+2025-01-17,Power Oil (Sachet),Oils,Port Harcourt,500,28,14000,400,25,On-Time
+2025-01-17,Local Rice (50kg),Grains,Enugu,120000,18,2160000,105000,14.3,On-Time
+2025-01-18,Kings Oil 5L,Oils,Ibadan,27000,30,810000,21500,25.6,Critical Delay
+2025-01-18,Milo Refill 500g,Beverages,Lagos (Lekki),7200,4,28800,6000,20,Delayed
+2025-01-18,Power Oil (Sachet),Oils,Port Harcourt,500,6,3000,400,25,Critical Delay
+2025-01-18,Power Oil (Sachet),Oils,Enugu,500,6,3000,400,25,On-Time
+2025-01-19,Kings Oil 5L,Oils,Lagos (Lekki),27000,8,216000,21500,25.6,Delayed
+2025-01-19,Yam Tuber (Large),Produce,Lagos (Ikeja),12000,23,276000,8000,50,On-Time
+2025-01-19,Semovita 10kg,Swallow,Enugu,10500,24,252000,9200,14.1,Critical Delay
+2025-01-19,Indomie Super Pack,Noodles,Ibadan,20000,3,60000,16800,19,Delayed
+2025-01-20,Yellow Garri (Paint),Tubers,Enugu,5500,24,132000,4200,31,On-Time
+2025-01-20,Yellow Garri (Paint),Tubers,Enugu,5000,8,40000,4200,19,Delayed
+2025-01-20,Frozen Turkey (kg),Meat,Ibadan,11000,7,77000,8800,25,Delayed
+2025-01-20,Beans Brown (Oloyin),Grains,Ibadan,4500,15,67500,3200,40.6,Critical Delay
+2025-01-21,Yellow Garri (Paint),Tubers,Enugu,5500,19,104500,4200,31,Critical Delay
+2025-01-21,Power Oil (Sachet),Oils,Port Harcourt,500,1,500,400,25,Critical Delay
+2025-01-21,Indomie Super Pack,Noodles,Kano,20000,29,580000,16800,19,Delayed
+2025-01-21,Kings Oil 5L,Oils,Ibadan,27000,22,594000,21500,25.6,Delayed
+2025-01-22,Kings Oil 5L,Oils,Lagos (Ikeja),27000,-2,0,21500,25.6,Critical Delay
+2025-01-22,Beans Brown (Oloyin),Grains,Lagos (Ikeja),4500,8,36000,3200,40.6,Delayed
+2025-01-22,Yellow Garri (Paint),Tubers,Port Harcourt,5000,22,110000,4200,19,On-Time
+2025-01-22,Frozen Turkey (kg),Meat,Abuja,11000,26,286000,8800,25,Delayed
+2025-01-23,Local Rice (50kg),Grains,Port Harcourt,120000,2,240000,105000,14.3,Delayed
+2025-01-23,Semovita 10kg,Swallow,Abuja,10500,17,178500,9200,14.1,Critical Delay
+2025-01-23,Milo Refill 500g,Beverages,Lagos (Ikeja),6700,5,33500,6000,11.7,On-Time
+2025-01-23,Semovita 10kg,Swallow,Ibadan,10500,27,283500,9200,14.1,Delayed
+2025-01-24,Milo Refill 500g,Beverages,Lagos (Lekki),7200,18,129600,6000,20,Critical Delay
+2025-01-24,Milo Refill 500g,Beverages,Lagos (Lekki),7200,14,100800,6000,20,Delayed
+2025-01-24,Peak Milk 400g,Dairy,Port Harcourt,5800,24,139200,4900,18.4,Critical Delay
+2025-01-24,Power Oil (Sachet),Oils,Lagos (Lekki),500,1,500,400,25,Critical Delay
+2025-01-25,Indomie Super Pack,Noodles,Enugu,20000,5,100000,16800,19,Delayed
+2025-01-25,Local Rice (50kg),Grains,Kano,120000,23,2760000,105000,14.3,On-Time
+2025-01-25,Milo Refill 500g,Beverages,Lagos (Ikeja),7200,10,72000,6000,20,Delayed
+2025-01-25,Milo Refill 500g,Beverages,Ibadan,7200,30,216000,6000,20,Critical Delay
+2025-01-26,Semovita 10kg,Swallow,Lagos (Ikeja),10500,2,21000,9200,14.1,Delayed
+2025-01-26,Dangote Sugar 1kg,Sweeteners,Enugu,4000,27,108000,3200,25,Critical Delay
+2025-01-26,Indomie Super Pack,Noodles,Ibadan,20000,10,200000,16800,19,Delayed
+2025-01-26,Beans Brown (Oloyin),Grains,Ibadan,4500,16,72000,3200,40.6,Critical Delay
+2025-01-27,Dangote Sugar 1kg,Sweeteners,Ibadan,4000,26,104000,3200,25,Delayed
+2025-01-27,Semovita 10kg,Swallow,Abuja,10000,22,220000,9200,8.7,Critical Delay
+2025-01-27,Power Oil (Sachet),Oils,Enugu,500,10,5000,400,25,Critical Delay
+2025-01-27,Milo Refill 500g,Beverages,Lagos (Ikeja),7200,0,0,6000,20,Delayed
+2025-01-28,Frozen Turkey (kg),Meat,Kano,11000,8,88000,8800,25,Critical Delay
+2025-01-28,Kings Oil 5L,Oils,Port Harcourt,27000,7,189000,21500,25.6,On-Time
+2025-01-28,Milo Refill 500g,Beverages,Lagos (Lekki),7200,1,7200,6000,20,On-Time
+2025-01-28,Yam Tuber (Large),Produce,Abuja,12000,8,96000,8000,50,Critical Delay
+2025-01-29,Yellow Garri (Paint),Tubers,Lagos (Lekki),5500,26,143000,4200,31,On-Time
+2025-01-29,Local Rice (50kg),Grains,Abuja,119500,25,2987500,105000,13.8,On-Time
+2025-01-29,Beans Brown (Oloyin),Grains,Abuja,4500,2,9000,3200,40.6,Critical Delay
+2025-01-29,Frozen Turkey (kg),Meat,Abuja,11000,13,143000,8800,25,Critical Delay
+2025-01-30,Milo Refill 500g,Beverages,Enugu,7200,11,79200,6000,20,Critical Delay
+2025-01-30,Power Oil (Sachet),Oils,Abuja,500,15,7500,400,25,Critical Delay
+2025-01-30,Local Rice (50kg),Grains,Enugu,120000,0,0,105000,14.3,On-Time
+2025-01-30,Yellow Garri (Paint),Tubers,Lagos (Lekki),5500,10,55000,4200,31,Delayed
+2025-01-31,Power Oil (Sachet),Oils,Kano,500,29,14500,400,25,On-Time
+2025-01-31,Local Rice (50kg),Grains,Abuja,120000,24,2880000,105000,14.3,Delayed
+2025-01-31,Frozen Turkey (kg),Meat,Lagos (Ikeja),11000,-1,0,8800,25,Critical Delay
+2025-01-31,Kings Oil 5L,Oils,Port Harcourt,27000,30,810000,21500,25.6,On-Time
+2025-02-01,Frozen Turkey (kg),Meat,Kano,11000,21,231000,8800,25,Delayed
+2025-01-02,Power Oil (Sachet),Oils,Lagos (Lekki),500,-2,0,400,25,Critical Delay
+2025-02-01,Yellow Garri (Paint),Tubers,Ibadan,5500,8,44000,4200,31,Delayed
+2025-01-02,Frozen Turkey (kg),Meat,Kano,11000,6,66000,8800,25,Critical Delay
+2025-02-02,Dangote Sugar 1kg,Sweeteners,Lagos (Ikeja),4000,27,108000,3200,25,Delayed
+2025-02-02,Peak Milk 400g,Dairy,Lagos (Lekki),5800,6,34800,4900,18.4,On-Time
+2025-02-02,Indomie Super Pack,Noodles,Lagos (Ikeja),20000,17,340000,16800,19,On-Time
+2025-02-02,Beans Brown (Oloyin),Grains,Port Harcourt,4500,28,126000,3200,40.6,Delayed
+2025-02-03,Yellow Garri (Paint),Tubers,Kano,5500,16,88000,4200,31,Critical Delay
+2025-02-03,Beans Brown (Oloyin),Grains,Enugu,4500,4,18000,3200,40.6,Critical Delay
+2025-02-03,Dangote Sugar 1kg,Sweeteners,Lagos (Lekki),4000,11,44000,3200,25,Critical Delay
+2025-03-02,Peak Milk 400g,Dairy,Lagos (Ikeja),5800,30,174000,4900,18.4,On-Time
+2025-02-04,Local Rice (50kg),Grains,Lagos (Lekki),120000,6,720000,105000,14.3,Delayed
+2025-02-04,Kings Oil 5L,Oils,Enugu,27000,15,405000,21500,25.6,Delayed
+2025-04-02,Power Oil (Sachet),Oils,Enugu,500,11,5500,400,25,On-Time
+2025-02-04,Semovita 10kg,Swallow,Ibadan,10500,-1,0,9200,14.1,Delayed
+2025-02-05,Yellow Garri (Paint),Tubers,Enugu,5500,0,0,4200,31,On-Time
+2025-02-05,Yam Tuber (Large),Produce,Enugu,12000,-2,0,8000,50,On-Time
+2025-02-05,Yellow Garri (Paint),Tubers,Port Harcourt,5500,15,82500,4200,31,Delayed
+2025-02-05,Peak Milk 400g,Dairy,Enugu,5800,-1,0,4900,18.4,On-Time
+2025-06-02,Dangote Sugar 1kg,Sweeteners,Ibadan,4000,23,92000,3200,25,On-Time
+2025-06-02,Beans Brown (Oloyin),Grains,Abuja,4000,-2,0,3200,25,Critical Delay
+2025-02-06,Semovita 10kg,Swallow,Enugu,10500,10,105000,9200,14.1,Critical Delay
+2025-06-02,Kings Oil 5L,Oils,Enugu,27000,9,243000,21500,25.6,On-Time
+2025-07-02,Indomie Super Pack,Noodles,Lagos (Ikeja),20000,27,540000,16800,19,Critical Delay
+2025-02-07,Dangote Sugar 1kg,Sweeteners,Ibadan,4000,0,0,3200,25,Delayed
+2025-02-07,Dangote Sugar 1kg,Sweeteners,Kano,3500,29,101500,3200,9.4,On-Time
+2025-07-02,Milo Refill 500g,Beverages,Port Harcourt,7200,22,158400,6000,20,Critical Delay
+2025-08-02,Yellow Garri (Paint),Tubers,Lagos (Ikeja),5500,3,16500,4200,31,Critical Delay
+2025-02-08,Milo Refill 500g,Beverages,Lagos (Ikeja),7200,25,180000,6000,20,On-Time
+2025-08-02,Local Rice (50kg),Grains,Enugu,120000,9,1080000,105000,14.3,Delayed
+2025-08-02,Indomie Super Pack,Noodles,Enugu,20000,0,0,16800,19,Delayed
+2025-09-02,Power Oil (Sachet),Oils,Lagos (Ikeja),500,27,13500,400,25,Critical Delay
+2025-02-09,Milo Refill 500g,Beverages,Enugu,7200,23,165600,6000,20,On-Time
+2025-02-09,Local Rice (50kg),Grains,Lagos (Ikeja),120000,25,3000000,105000,14.3,Critical Delay
+2025-09-02,Semovita 10kg,Swallow,Enugu,10500,7,73500,9200,14.1,On-Time
+2025-10-02,Semovita 10kg,Swallow,Port Harcourt,10500,13,136500,9200,14.1,Delayed
+2025-02-10,Yam Tuber (Large),Produce,Ibadan,12000,10,120000,8000,50,On-Time
+2025-02-10,Yam Tuber (Large),Produce,Enugu,12000,23,276000,8000,50,On-Time
+2025-10-02,Kings Oil 5L,Oils,Port Harcourt,27000,12,324000,21500,25.6,Delayed
+2025-11-02,Milo Refill 500g,Beverages,Kano,7200,3,21600,6000,20,Critical Delay
+2025-02-11,Semovita 10kg,Swallow,Enugu,10500,5,52500,9200,14.1,Delayed
+2025-11-02,Local Rice (50kg),Grains,Abuja,120000,26,3120000,105000,14.3,On-Time
+2025-11-02,Local Rice (50kg),Grains,Lagos (Ikeja),120000,24,2880000,105000,14.3,Critical Delay
+2025-02-12,Indomie Super Pack,Noodles,Lagos (Lekki),20000,22,440000,16800,19,On-Time
+2025-12-02,Local Rice (50kg),Grains,Kano,120000,30,3600000,105000,14.3,Critical Delay
+2025-02-12,Yellow Garri (Paint),Tubers,Ibadan,5500,24,132000,4200,31,On-Time
+2025-02-12,Yellow Garri (Paint),Tubers,Ibadan,5500,13,71500,4200,31,Critical Delay
+2025-02-13,Local Rice (50kg),Grains,Lagos (Lekki),120000,16,1920000,105000,14.3,On-Time
+2025-02-13,Yam Tuber (Large),Produce,Abuja,12000,23,276000,8000,50,Critical Delay
+2025-02-13,Yellow Garri (Paint),Tubers,Kano,5500,17,93500,4200,31,Critical Delay
+2025-02-13,Milo Refill 500g,Beverages,Kano,7200,11,79200,6000,20,Delayed
+2025-02-14,Beans Brown (Oloyin),Grains,Port Harcourt,4500,23,103500,3200,40.6,Delayed
+2025-02-14,Beans Brown (Oloyin),Grains,Lagos (Ikeja),4500,-2,0,3200,40.6,Critical Delay
+2025-02-14,Peak Milk 400g,Dairy,Enugu,5800,1,5800,4900,18.4,Delayed
+2025-02-14,Milo Refill 500g,Beverages,Enugu,7200,10,72000,6000,20,Delayed
+2025-02-15,Indomie Super Pack,Noodles,Port Harcourt,20000,12,240000,16800,19,Critical Delay
+2025-02-15,Indomie Super Pack,Noodles,Enugu,20000,13,260000,16800,19,Delayed
+2025-02-15,Dangote Sugar 1kg,Sweeteners,Enugu,4000,30,120000,3200,25,Critical Delay
+2025-02-15,Power Oil (Sachet),Oils,Lagos (Lekki),500,6,3000,400,25,On-Time
+2025-02-16,Semovita 10kg,Swallow,Port Harcourt,10500,7,73500,9200,14.1,On-Time
+2025-02-16,Peak Milk 400g,Dairy,Abuja,5800,9,52200,4900,18.4,Critical Delay
+2025-02-16,Beans Brown (Oloyin),Grains,Enugu,4500,13,58500,3200,40.6,On-Time
+2025-02-16,Kings Oil 5L,Oils,Enugu,27000,3,81000,21500,25.6,Critical Delay
+2025-02-17,Yam Tuber (Large),Produce,Ibadan,12000,7,84000,8000,50,On-Time
+2025-02-17,Kings Oil 5L,Oils,Abuja,27000,30,810000,21500,25.6,Critical Delay
+2025-02-17,Semovita 10kg,Swallow,Port Harcourt,10500,20,210000,9200,14.1,On-Time
+2025-02-17,Milo Refill 500g,Beverages,Kano,6700,15,100500,6000,11.7,Delayed
+2025-02-18,Beans Brown (Oloyin),Grains,Enugu,4500,19,85500,3200,40.6,Delayed
+2025-02-18,Frozen Turkey (kg),Meat,Lagos (Ikeja),11000,20,220000,8800,25,On-Time
+2025-02-18,Indomie Super Pack,Noodles,Abuja,20000,14,280000,16800,19,Critical Delay
+2025-02-18,Indomie Super Pack,Noodles,Lagos (Ikeja),20000,11,220000,16800,19,On-Time
+2025-02-19,Kings Oil 5L,Oils,Abuja,27000,23,621000,21500,25.6,Critical Delay
+2025-02-19,Power Oil (Sachet),Oils,Lagos (Ikeja),500,14,7000,400,25,Delayed
+2025-02-19,Power Oil (Sachet),Oils,Abuja,500,5,2500,400,25,On-Time
+2025-02-19,Peak Milk 400g,Dairy,Kano,5800,28,162400,4900,18.4,Delayed
+2025-02-20,Beans Brown (Oloyin),Grains,Lagos (Ikeja),4500,25,112500,3200,40.6,On-Time
+2025-02-20,Power Oil (Sachet),Oils,Abuja,500,8,4000,400,25,On-Time
+2025-02-20,Beans Brown (Oloyin),Grains,Port Harcourt,4500,18,81000,3200,40.6,On-Time
+2025-02-20,Indomie Super Pack,Noodles,Ibadan,20000,9,180000,16800,19,Delayed
+2025-02-21,Frozen Turkey (kg),Meat,Ibadan,11000,22,242000,8800,25,Delayed
+2025-02-21,Kings Oil 5L,Oils,Abuja,27000,2,54000,21500,25.6,Critical Delay
+2025-02-21,Semovita 10kg,Swallow,Kano,10500,-1,0,9200,14.1,Delayed
+2025-02-21,Indomie Super Pack,Noodles,Port Harcourt,20000,11,220000,16800,19,Delayed
+2025-02-22,Kings Oil 5L,Oils,Enugu,27000,24,648000,21500,25.6,On-Time
+2025-02-22,Frozen Turkey (kg),Meat,Abuja,11000,9,99000,8800,25,On-Time
+2025-02-22,Dangote Sugar 1kg,Sweeteners,Ibadan,4000,18,72000,3200,25,On-Time
+2025-02-22,Power Oil (Sachet),Oils,Abuja,500,16,8000,400,25,Critical Delay
+2025-02-23,Frozen Turkey (kg),Meat,Enugu,11000,20,220000,8800,25,Critical Delay
+2025-02-23,Kings Oil 5L,Oils,Ibadan,27000,18,486000,21500,25.6,On-Time
+2025-02-23,Dangote Sugar 1kg,Sweeteners,Kano,4000,19,76000,3200,25,On-Time
+2025-02-23,Yam Tuber (Large),Produce,Abuja,12000,7,84000,8000,50,Critical Delay
+2025-02-24,Local Rice (50kg),Grains,Port Harcourt,120000,11,1320000,105000,14.3,Critical Delay
+2025-02-24,Indomie Super Pack,Noodles,Enugu,20000,10,200000,16800,19,Critical Delay
+2025-02-24,Kings Oil 5L,Oils,Kano,27000,25,675000,21500,25.6,On-Time
+2025-02-24,Peak Milk 400g,Dairy,Lagos (Lekki),5800,20,116000,4900,18.4,On-Time
+2025-02-25,Local Rice (50kg),Grains,Lagos (Lekki),120000,6,720000,105000,14.3,Delayed
+2025-02-25,Peak Milk 400g,Dairy,Enugu,5800,19,110200,4900,18.4,On-Time
+2025-02-25,Yam Tuber (Large),Produce,Enugu,12000,6,72000,8000,50,Critical Delay
+2025-02-25,Peak Milk 400g,Dairy,Ibadan,5800,1,5800,4900,18.4,On-Time
+2025-02-26,Semovita 10kg,Swallow,Enugu,10500,7,73500,9200,14.1,Critical Delay
+2025-02-26,Beans Brown (Oloyin),Grains,Port Harcourt,4000,1,4000,3200,25,Delayed
+2025-02-26,Milo Refill 500g,Beverages,Abuja,7200,24,172800,6000,20,On-Time
+2025-02-26,Peak Milk 400g,Dairy,Ibadan,5800,-1,0,4900,18.4,On-Time
+2025-02-27,Semovita 10kg,Swallow,Ibadan,10500,8,84000,9200,14.1,Delayed
+2025-02-27,Kings Oil 5L,Oils,Enugu,27000,18,486000,21500,25.6,Delayed
+2025-02-27,Local Rice (50kg),Grains,Enugu,120000,21,2520000,105000,14.3,Delayed
+2025-02-27,Yam Tuber (Large),Produce,Abuja,12000,9,108000,8000,50,On-Time
+2025-02-28,Semovita 10kg,Swallow,Lagos (Ikeja),10500,28,294000,9200,14.1,Delayed
+2025-02-28,Power Oil (Sachet),Oils,Lagos (Lekki),500,18,9000,400,25,On-Time
+2025-02-28,Frozen Turkey (kg),Meat,Lagos (Ikeja),11000,22,242000,8800,25,Delayed
+2025-02-28,Power Oil (Sachet),Oils,Port Harcourt,500,6,3000,400,25,Delayed
+2025-03-01,Indomie Super Pack,Noodles,Port Harcourt,20000,25,500000,16800,19,On-Time
+2025-03-01,Indomie Super Pack,Noodles,Ibadan,20000,25,500000,16800,19,On-Time
+2025-03-01,Local Rice (50kg),Grains,Lagos (Lekki),120000,1,120000,105000,14.3,Critical Delay
+2025-01-03,Yellow Garri (Paint),Tubers,Lagos (Ikeja),5500,-2,0,4200,31,Delayed
+2025-02-03,Power Oil (Sachet),Oils,Ibadan,500,18,9000,400,25,Delayed
+2025-02-03,Beans Brown (Oloyin),Grains,Ibadan,4500,24,108000,3200,40.6,Critical Delay
+2025-02-03,Milo Refill 500g,Beverages,Kano,7200,26,187200,6000,20,On-Time
+2025-02-03,Power Oil (Sachet),Oils,Abuja,500,7,3500,400,25,On-Time
+2025-03-03,Frozen Turkey (kg),Meat,Ibadan,11000,9,99000,8800,25,Critical Delay
+2025-03-03,Yellow Garri (Paint),Tubers,Lagos (Ikeja),5500,6,33000,4200,31,Critical Delay
+2025-03-03,Peak Milk 400g,Dairy,Abuja,5800,8,46400,4900,18.4,Critical Delay
+2025-03-03,Peak Milk 400g,Dairy,Kano,5800,16,92800,4900,18.4,On-Time
+2025-03-04,Power Oil (Sachet),Oils,Port Harcourt,500,19,9500,400,25,Delayed
+2025-04-03,Kings Oil 5L,Oils,Lagos (Ikeja),27000,1,27000,21500,25.6,Critical Delay
+2025-03-04,Frozen Turkey (kg),Meat,Ibadan,11000,12,132000,8800,25,Delayed
+2025-03-04,Yellow Garri (Paint),Tubers,Port Harcourt,5500,1,5500,4200,31,Critical Delay
+2025-03-05,Semovita 10kg,Swallow,Lagos (Lekki),10500,29,304500,9200,14.1,On-Time
+2025-05-03,Milo Refill 500g,Beverages,Enugu,7200,30,216000,6000,20,Delayed
+2025-05-03,Milo Refill 500g,Beverages,Lagos (Ikeja),6700,17,113900,6000,11.7,On-Time
+2025-03-05,Power Oil (Sachet),Oils,Lagos (Lekki),500,19,9500,400,25,On-Time
+2025-06-03,Dangote Sugar 1kg,Sweeteners,Enugu,4000,7,28000,3200,25,Critical Delay
+2025-03-06,Yam Tuber (Large),Produce,Lagos (Ikeja),12000,10,120000,8000,50,Critical Delay
+2025-03-06,Local Rice (50kg),Grains,Lagos (Ikeja),120000,18,2160000,105000,14.3,On-Time
+2025-03-06,Indomie Super Pack,Noodles,Lagos (Lekki),20000,4,80000,16800,19,On-Time
+2025-07-03,Beans Brown (Oloyin),Grains,Enugu,4500,13,58500,3200,40.6,Delayed
+2025-07-03,Beans Brown (Oloyin),Grains,Lagos (Lekki),4500,0,0,3200,40.6,Critical Delay
+2025-03-07,Kings Oil 5L,Oils,Lagos (Ikeja),27000,21,567000,21500,25.6,On-Time
+2025-03-07,Local Rice (50kg),Grains,Lagos (Ikeja),120000,16,1920000,105000,14.3,Critical Delay
+2025-08-03,Beans Brown (Oloyin),Grains,Abuja,4500,19,85500,3200,40.6,Delayed
+2025-03-08,Peak Milk 400g,Dairy,Enugu,5800,2,11600,4900,18.4,Delayed
+2025-03-08,Local Rice (50kg),Grains,Lagos (Ikeja),120000,30,3600000,105000,14.3,Delayed
+2025-08-03,Local Rice (50kg),Grains,Port Harcourt,120000,22,2640000,105000,14.3,On-Time
+2025-09-03,Frozen Turkey (kg),Meat,Kano,11000,6,66000,8800,25,On-Time
+2025-03-09,Yam Tuber (Large),Produce,Kano,12000,30,360000,8000,50,On-Time
+2025-03-09,Beans Brown (Oloyin),Grains,Abuja,4500,15,67500,3200,40.6,Critical Delay
+2025-03-09,Beans Brown (Oloyin),Grains,Kano,4500,27,121500,3200,40.6,On-Time
+2025-10-03,Frozen Turkey (kg),Meat,Enugu,11000,14,154000,8800,25,On-Time
+2025-03-10,Dangote Sugar 1kg,Sweeteners,Kano,4000,11,44000,3200,25,Critical Delay
+2025-03-10,Peak Milk 400g,Dairy,Ibadan,5800,-1,0,4900,18.4,Critical Delay
+2025-03-10,Peak Milk 400g,Dairy,Lagos (Ikeja),5800,18,104400,4900,18.4,On-Time
+2025-03-11,Beans Brown (Oloyin),Grains,Ibadan,4500,6,27000,3200,40.6,On-Time
+2025-03-11,Kings Oil 5L,Oils,Lagos (Ikeja),27000,17,459000,21500,25.6,Critical Delay
+2025-11-03,Semovita 10kg,Swallow,Lagos (Lekki),10500,27,283500,9200,14.1,Critical Delay
+2025-11-03,Power Oil (Sachet),Oils,Kano,500,13,6500,400,25,On-Time
+2025-12-03,Peak Milk 400g,Dairy,Kano,5800,2,11600,4900,18.4,Delayed
+2025-03-12,Peak Milk 400g,Dairy,Ibadan,5800,15,87000,4900,18.4,Delayed
+2025-12-03,Peak Milk 400g,Dairy,Lagos (Ikeja),5800,8,46400,4900,18.4,Critical Delay
+2025-03-12,Dangote Sugar 1kg,Sweeteners,Lagos (Ikeja),4000,15,60000,3200,25,Critical Delay
+2025-03-13,Milo Refill 500g,Beverages,Ibadan,7200,20,144000,6000,20,Delayed
+2025-03-13,Yam Tuber (Large),Produce,Port Harcourt,12000,2,24000,8000,50,On-Time
+2025-03-13,Beans Brown (Oloyin),Grains,Kano,4500,27,121500,3200,40.6,On-Time
+2025-03-13,Frozen Turkey (kg),Meat,Abuja,11000,27,297000,8800,25,Delayed
+2025-03-14,Kings Oil 5L,Oils,Lagos (Ikeja),27000,3,81000,21500,25.6,Delayed
+2025-03-14,Yam Tuber (Large),Produce,Port Harcourt,12000,9,108000,8000,50,On-Time
+2025-03-14,Frozen Turkey (kg),Meat,Abuja,11000,13,143000,8800,25,Critical Delay
+2025-03-14,Yam Tuber (Large),Produce,Kano,12000,10,120000,8000,50,Critical Delay
+2025-03-15,Kings Oil 5L,Oils,Lagos (Lekki),27000,-2,0,21500,25.6,Delayed
+2025-03-15,Milo Refill 500g,Beverages,Abuja,6700,20,134000,6000,11.7,Delayed
+2025-03-15,Indomie Super Pack,Noodles,Port Harcourt,20000,30,600000,16800,19,Delayed
+2025-03-15,Milo Refill 500g,Beverages,Lagos (Ikeja),7200,17,122400,6000,20,On-Time
+2025-03-16,Yellow Garri (Paint),Tubers,Abuja,5500,21,115500,4200,31,Delayed
+2025-03-16,Yellow Garri (Paint),Tubers,Enugu,5500,21,115500,4200,31,Delayed
+2025-03-16,Beans Brown (Oloyin),Grains,Abuja,4500,22,99000,3200,40.6,Critical Delay
+2025-03-16,Frozen Turkey (kg),Meat,Port Harcourt,11000,13,143000,8800,25,On-Time
+2025-03-17,Yellow Garri (Paint),Tubers,Enugu,5500,18,99000,4200,31,Critical Delay
+2025-03-17,Power Oil (Sachet),Oils,Abuja,500,-1,0,400,25,Critical Delay
+2025-03-17,Dangote Sugar 1kg,Sweeteners,Enugu,4000,-1,0,3200,25,On-Time
+2025-03-17,Yam Tuber (Large),Produce,Lagos (Ikeja),12000,15,180000,8000,50,Critical Delay
+2025-03-18,Peak Milk 400g,Dairy,Lagos (Lekki),5800,24,139200,4900,18.4,On-Time
+2025-03-18,Frozen Turkey (kg),Meat,Enugu,11000,10,110000,8800,25,Delayed
+2025-03-18,Semovita 10kg,Swallow,Kano,10500,7,73500,9200,14.1,On-Time
+2025-03-18,Local Rice (50kg),Grains,Kano,120000,19,2280000,105000,14.3,On-Time
+2025-03-19,Milo Refill 500g,Beverages,Kano,7200,28,201600,6000,20,Critical Delay
+2025-03-19,Kings Oil 5L,Oils,Abuja,27000,22,594000,21500,25.6,Critical Delay
+2025-03-19,Dangote Sugar 1kg,Sweeteners,Abuja,4000,5,20000,3200,25,Delayed
+2025-03-19,Power Oil (Sachet),Oils,Abuja,500,14,7000,400,25,Delayed
+2025-03-20,Semovita 10kg,Swallow,Abuja,10500,18,189000,9200,14.1,Delayed
+2025-03-20,Indomie Super Pack,Noodles,Lagos (Ikeja),20000,11,220000,16800,19,On-Time
+2025-03-20,Power Oil (Sachet),Oils,Port Harcourt,500,21,10500,400,25,Delayed
+2025-03-20,Milo Refill 500g,Beverages,Enugu,7200,4,28800,6000,20,Critical Delay
+2025-03-21,Local Rice (50kg),Grains,Kano,120000,8,960000,105000,14.3,On-Time
+2025-03-21,Local Rice (50kg),Grains,Port Harcourt,119500,3,358500,105000,13.8,Delayed
+2025-03-21,Kings Oil 5L,Oils,Port Harcourt,27000,2,54000,21500,25.6,Critical Delay
+2025-03-21,Semovita 10kg,Swallow,Lagos (Ikeja),10500,0,0,9200,14.1,Critical Delay
+2025-03-22,Yellow Garri (Paint),Tubers,Lagos (Lekki),5500,7,38500,4200,31,Critical Delay
+2025-03-22,Local Rice (50kg),Grains,Port Harcourt,120000,25,3000000,105000,14.3,Critical Delay
+2025-03-22,Kings Oil 5L,Oils,Lagos (Lekki),27000,14,378000,21500,25.6,Delayed
+2025-03-22,Kings Oil 5L,Oils,Ibadan,27000,0,0,21500,25.6,Critical Delay
+2025-03-23,Dangote Sugar 1kg,Sweeteners,Port Harcourt,4000,15,60000,3200,25,Delayed
+2025-03-23,Semovita 10kg,Swallow,Lagos (Lekki),10500,8,84000,9200,14.1,On-Time
+2025-03-23,Indomie Super Pack,Noodles,Kano,20000,19,380000,16800,19,Critical Delay
+2025-03-23,Peak Milk 400g,Dairy,Enugu,5800,1,5800,4900,18.4,On-Time
+2025-03-24,Dangote Sugar 1kg,Sweeteners,Enugu,4000,29,116000,3200,25,On-Time
+2025-03-24,Milo Refill 500g,Beverages,Lagos (Ikeja),7200,22,158400,6000,20,Delayed
+2025-03-24,Frozen Turkey (kg),Meat,Enugu,11000,21,231000,8800,25,Delayed
+2025-03-24,Semovita 10kg,Swallow,Enugu,10500,22,231000,9200,14.1,Delayed
+2025-03-25,Milo Refill 500g,Beverages,Kano,6700,-2,0,6000,11.7,On-Time
+2025-03-25,Local Rice (50kg),Grains,Enugu,120000,17,2040000,105000,14.3,On-Time
+2025-03-25,Yam Tuber (Large),Produce,Lagos (Lekki),12000,16,192000,8000,50,On-Time
+2025-03-25,Beans Brown (Oloyin),Grains,Enugu,4500,5,22500,3200,40.6,On-Time
+2025-03-26,Frozen Turkey (kg),Meat,Port Harcourt,11000,19,209000,8800,25,On-Time
+2025-03-26,Power Oil (Sachet),Oils,Kano,500,24,12000,400,25,Delayed
+2025-03-26,Kings Oil 5L,Oils,Lagos (Ikeja),27000,0,0,21500,25.6,On-Time
+2025-03-26,Yellow Garri (Paint),Tubers,Lagos (Lekki),5500,2,11000,4200,31,Delayed
+2025-03-27,Power Oil (Sachet),Oils,Lagos (Lekki),500,16,8000,400,25,On-Time
+2025-03-27,Yellow Garri (Paint),Tubers,Lagos (Lekki),5500,18,99000,4200,31,Critical Delay
+2025-03-27,Semovita 10kg,Swallow,Kano,10500,7,73500,9200,14.1,Critical Delay
+2025-03-27,Milo Refill 500g,Beverages,Enugu,7200,14,100800,6000,20,On-Time
+2025-03-28,Dangote Sugar 1kg,Sweeteners,Port Harcourt,4000,-2,0,3200,25,Critical Delay
+2025-03-28,Frozen Turkey (kg),Meat,Port Harcourt,11000,3,33000,8800,25,On-Time
+2025-03-28,Frozen Turkey (kg),Meat,Enugu,11000,0,0,8800,25,On-Time
+2025-03-28,Dangote Sugar 1kg,Sweeteners,Abuja,4000,4,16000,3200,25,On-Time
+2025-03-29,Semovita 10kg,Swallow,Abuja,10500,7,73500,9200,14.1,Critical Delay
+2025-03-29,Indomie Super Pack,Noodles,Kano,20000,17,340000,16800,19,Delayed
+2025-03-29,Yellow Garri (Paint),Tubers,Abuja,5500,11,60500,4200,31,On-Time
+2025-03-29,Dangote Sugar 1kg,Sweeteners,Lagos (Lekki),4000,6,24000,3200,25,Delayed
+2025-03-30,Frozen Turkey (kg),Meat,Lagos (Lekki),11000,14,154000,8800,25,On-Time
+2025-03-30,Yam Tuber (Large),Produce,Lagos (Ikeja),12000,9,108000,8000,50,Critical Delay
+2025-03-30,Yam Tuber (Large),Produce,Kano,12000,16,192000,8000,50,Critical Delay
+2025-03-30,Beans Brown (Oloyin),Grains,Enugu,4500,15,67500,3200,40.6,On-Time
+2025-03-31,Beans Brown (Oloyin),Grains,Lagos (Lekki),4500,16,72000,3200,40.6,Delayed
+2025-12-26,Frozen Turkey (kg),Meat,Abuja,11000,6,66000,8800,25,Delayed
+2025-03-31,Indomie Super Pack,Noodles,Enugu,20000,27,540000,16800,19,Delayed
+2025-03-31,Power Oil (Sachet),Oils,Lagos (Ikeja),500,8,4000,400,25,Critical Delay
+2025-04-01,Frozen Turkey (kg),Meat,Lagos (Ikeja),11000,14,154000,8800,25,Critical Delay
+2025-04-01,Beans Brown (Oloyin),Grains,Abuja,4500,0,0,3200,40.6,Critical Delay
+2025-04-01,Semovita 10kg,Swallow,Enugu,10500,-1,0,9200,14.1,Critical Delay
+2025-01-04,Local Rice (50kg),Grains,Ibadan,120000,30,3600000,105000,14.3,Delayed
+2025-04-02,Power Oil (Sachet),Oils,Enugu,500,-1,0,400,25,Critical Delay
+2025-04-02,Yam Tuber (Large),Produce,Kano,12000,-1,0,8000,50,Critical Delay
+2025-04-02,Kings Oil 5L,Oils,Kano,27000,1,27000,21500,25.6,Critical Delay
+2025-04-02,Peak Milk 400g,Dairy,Port Harcourt,5800,21,121800,4900,18.4,On-Time
+2025-03-04,Indomie Super Pack,Noodles,Ibadan,20000,20,400000,16800,19,Critical Delay
+2025-03-04,Indomie Super Pack,Noodles,Ibadan,19500,22,429000,16800,16.1,Delayed
+2025-04-03,Power Oil (Sachet),Oils,Port Harcourt,500,9,4500,400,25,Delayed
+2025-04-03,Beans Brown (Oloyin),Grains,Lagos (Ikeja),4500,17,76500,3200,40.6,Delayed
+2025-04-04,Beans Brown (Oloyin),Grains,Enugu,4500,14,63000,3200,40.6,Critical Delay
+2025-04-04,Indomie Super Pack,Noodles,Abuja,20000,21,420000,16800,19,Delayed
+2025-04-04,Kings Oil 5L,Oils,Lagos (Ikeja),27000,23,621000,21500,25.6,Critical Delay
+2025-04-04,Kings Oil 5L,Oils,Abuja,27000,10,270000,21500,25.6,Delayed
+2025-04-05,Semovita 10kg,Swallow,Kano,10500,25,262500,9200,14.1,Delayed
+2025-04-05,Peak Milk 400g,Dairy,Ibadan,5800,21,121800,4900,18.4,Critical Delay
+2025-05-04,Yellow Garri (Paint),Tubers,Kano,5500,7,38500,4200,31,Delayed
+2025-04-05,Peak Milk 400g,Dairy,Ibadan,5800,4,23200,4900,18.4,Delayed
+2025-06-04,Power Oil (Sachet),Oils,Lagos (Ikeja),500,23,11500,400,25,Delayed
+2025-06-04,Power Oil (Sachet),Oils,Abuja,500,5,2500,400,25,On-Time
+2025-06-04,Kings Oil 5L,Oils,Ibadan,27000,18,486000,21500,25.6,On-Time
+2025-04-06,Yellow Garri (Paint),Tubers,Kano,5500,11,60500,4200,31,Delayed
+2025-04-07,Dangote Sugar 1kg,Sweeteners,Abuja,4000,-2,0,3200,25,Delayed
+2025-04-07,Indomie Super Pack,Noodles,Kano,20000,15,300000,16800,19,Delayed
+2025-07-04,Local Rice (50kg),Grains,Ibadan,120000,-2,0,105000,14.3,Delayed
+2025-04-07,Indomie Super Pack,Noodles,Kano,20000,12,240000,16800,19,Delayed
+2025-08-04,Beans Brown (Oloyin),Grains,Ibadan,4500,24,108000,3200,40.6,Delayed
+2025-08-04,Yellow Garri (Paint),Tubers,Lagos (Lekki),5500,5,27500,4200,31,Delayed
+2025-04-08,Beans Brown (Oloyin),Grains,Kano,4500,30,135000,3200,40.6,Delayed
+2025-08-04,Peak Milk 400g,Dairy,Ibadan,5800,7,40600,4900,18.4,Delayed
+2025-04-09,Yam Tuber (Large),Produce,Enugu,12000,12,144000,8000,50,On-Time
+2025-12-26,Dangote Sugar 1kg,Sweeteners,Port Harcourt,4000,30,120000,3200,25,Critical Delay
+2025-04-09,Frozen Turkey (kg),Meat,Ibadan,11000,17,187000,8800,25,Delayed
+2025-04-09,Milo Refill 500g,Beverages,Ibadan,7200,0,0,6000,20,On-Time
+2025-10-04,Milo Refill 500g,Beverages,Enugu,7200,-2,0,6000,20,On-Time
+2025-10-04,Frozen Turkey (kg),Meat,Enugu,11000,-2,0,8800,25,Critical Delay
+2025-10-04,Frozen Turkey (kg),Meat,Ibadan,11000,23,253000,8800,25,Delayed
+2025-04-10,Milo Refill 500g,Beverages,Abuja,7200,-1,0,6000,20,On-Time
+2025-11-04,Kings Oil 5L,Oils,Lagos (Ikeja),27000,-1,0,21500,25.6,On-Time
+2025-04-11,Peak Milk 400g,Dairy,Enugu,5800,26,150800,4900,18.4,On-Time
+2025-11-04,Yellow Garri (Paint),Tubers,Kano,5500,-1,0,4200,31,On-Time
+2025-04-11,Peak Milk 400g,Dairy,Lagos (Ikeja),5800,7,40600,4900,18.4,On-Time
+2025-12-04,Milo Refill 500g,Beverages,Kano,7200,-1,0,6000,20,Delayed
+2025-12-04,Yellow Garri (Paint),Tubers,Kano,5500,4,22000,4200,31,Critical Delay
+2025-12-04,Milo Refill 500g,Beverages,Lagos (Lekki),7200,14,100800,6000,20,On-Time
+2025-04-12,Frozen Turkey (kg),Meat,Abuja,11000,26,286000,8800,25,Delayed
+2025-04-13,Yellow Garri (Paint),Tubers,Abuja,5500,7,38500,4200,31,On-Time
+2025-04-13,Yellow Garri (Paint),Tubers,Port Harcourt,5000,13,65000,4200,19,Delayed
+2025-04-13,Semovita 10kg,Swallow,Kano,10500,4,42000,9200,14.1,Delayed
+2025-04-13,Peak Milk 400g,Dairy,Lagos (Ikeja),5800,22,127600,4900,18.4,Delayed
+2025-04-14,Frozen Turkey (kg),Meat,Abuja,11000,24,264000,8800,25,Critical Delay
+2025-04-14,Yam Tuber (Large),Produce,Enugu,12000,14,168000,8000,50,On-Time
+2025-04-14,Beans Brown (Oloyin),Grains,Port Harcourt,4500,23,103500,3200,40.6,Critical Delay
+2025-04-14,Indomie Super Pack,Noodles,Abuja,20000,28,560000,16800,19,Critical Delay
+2025-04-15,Yam Tuber (Large),Produce,Ibadan,11500,-2,0,8000,43.8,Delayed
+2025-04-15,Milo Refill 500g,Beverages,Abuja,7200,13,93600,6000,20,Critical Delay
+2025-04-15,Milo Refill 500g,Beverages,Port Harcourt,7200,11,79200,6000,20,Delayed
+2025-04-15,Indomie Super Pack,Noodles,Port Harcourt,20000,18,360000,16800,19,Critical Delay
+2025-04-16,Milo Refill 500g,Beverages,Port Harcourt,7200,2,14400,6000,20,On-Time
+2025-04-16,Semovita 10kg,Swallow,Lagos (Ikeja),10500,7,73500,9200,14.1,On-Time
+2025-04-16,Local Rice (50kg),Grains,Enugu,120000,-1,0,105000,14.3,On-Time
+2025-12-26,Peak Milk 400g,Dairy,Port Harcourt,5800,1,5800,4900,18.4,Critical Delay
+2025-04-17,Beans Brown (Oloyin),Grains,Ibadan,4500,11,49500,3200,40.6,Critical Delay
+2025-04-17,Yellow Garri (Paint),Tubers,Lagos (Ikeja),5500,8,44000,4200,31,Critical Delay
+2025-04-17,Indomie Super Pack,Noodles,Abuja,20000,4,80000,16800,19,Critical Delay
+2025-04-17,Local Rice (50kg),Grains,Enugu,120000,-1,0,105000,14.3,On-Time
+2025-04-18,Peak Milk 400g,Dairy,Kano,5800,23,133400,4900,18.4,On-Time
+2025-04-18,Frozen Turkey (kg),Meat,Lagos (Lekki),11000,6,66000,8800,25,On-Time
+2025-04-18,Local Rice (50kg),Grains,Abuja,120000,22,2640000,105000,14.3,On-Time
+2025-04-18,Yellow Garri (Paint),Tubers,Lagos (Lekki),5000,28,140000,4200,19,On-Time
+2025-04-19,Frozen Turkey (kg),Meat,Port Harcourt,11000,10,110000,8800,25,On-Time
+2025-04-19,Local Rice (50kg),Grains,Ibadan,120000,8,960000,105000,14.3,Delayed
+2025-04-19,Local Rice (50kg),Grains,Lagos (Ikeja),120000,-2,0,105000,14.3,Delayed
+2025-04-19,Frozen Turkey (kg),Meat,Abuja,11000,27,297000,8800,25,On-Time
+2025-04-20,Yam Tuber (Large),Produce,Lagos (Lekki),12000,23,276000,8000,50,On-Time
+2025-04-20,Semovita 10kg,Swallow,Kano,10500,6,63000,9200,14.1,Delayed
+2025-04-20,Yam Tuber (Large),Produce,Kano,12000,22,264000,8000,50,Delayed
+2025-04-20,Yellow Garri (Paint),Tubers,Abuja,5500,5,27500,4200,31,Delayed
+2025-04-21,Milo Refill 500g,Beverages,Lagos (Lekki),7200,12,86400,6000,20,On-Time
+2025-04-21,Milo Refill 500g,Beverages,Ibadan,7200,27,194400,6000,20,Delayed
+2025-04-21,Milo Refill 500g,Beverages,Port Harcourt,7200,8,57600,6000,20,Delayed
+2025-04-21,Dangote Sugar 1kg,Sweeteners,Port Harcourt,4000,1,4000,3200,25,On-Time
+2025-04-22,Dangote Sugar 1kg,Sweeteners,Lagos (Lekki),4000,13,52000,3200,25,On-Time
+2025-04-22,Frozen Turkey (kg),Meat,Lagos (Lekki),11000,5,55000,8800,25,On-Time
+2025-04-22,Indomie Super Pack,Noodles,Kano,20000,0,0,16800,19,Delayed
+2025-04-22,Peak Milk 400g,Dairy,Lagos (Ikeja),5800,-1,0,4900,18.4,Critical Delay
+2025-04-23,Local Rice (50kg),Grains,Abuja,120000,9,1080000,105000,14.3,Delayed
+2025-04-23,Power Oil (Sachet),Oils,Ibadan,0,9,0,400,-100,Critical Delay
+2025-04-23,Beans Brown (Oloyin),Grains,Enugu,4500,20,90000,3200,40.6,On-Time
+2025-04-23,Kings Oil 5L,Oils,Ibadan,27000,5,135000,21500,25.6,Delayed
+2025-04-24,Yam Tuber (Large),Produce,Port Harcourt,12000,28,336000,8000,50,Critical Delay
+2025-04-24,Dangote Sugar 1kg,Sweeteners,Enugu,4000,24,96000,3200,25,Critical Delay
+2025-04-24,Frozen Turkey (kg),Meat,Abuja,11000,-1,0,8800,25,On-Time
+2025-04-24,Frozen Turkey (kg),Meat,Kano,11000,28,308000,8800,25,On-Time
+2025-04-25,Yellow Garri (Paint),Tubers,Abuja,5500,15,82500,4200,31,On-Time
+2025-04-25,Dangote Sugar 1kg,Sweeteners,Abuja,4000,20,80000,3200,25,Delayed
+2025-04-25,Frozen Turkey (kg),Meat,Kano,10500,19,199500,8800,19.3,On-Time
+2025-04-25,Dangote Sugar 1kg,Sweeteners,Lagos (Lekki),3500,-2,0,3200,9.4,Critical Delay
+2025-04-26,Beans Brown (Oloyin),Grains,Lagos (Lekki),4500,16,72000,3200,40.6,Critical Delay
+2025-04-26,Local Rice (50kg),Grains,Abuja,120000,14,1680000,105000,14.3,Delayed
+2025-04-26,Frozen Turkey (kg),Meat,Enugu,11000,7,77000,8800,25,Critical Delay
+2025-04-26,Frozen Turkey (kg),Meat,Enugu,11000,8,88000,8800,25,On-Time
+2025-04-27,Milo Refill 500g,Beverages,Port Harcourt,7200,9,64800,6000,20,Delayed
+2025-04-27,Yellow Garri (Paint),Tubers,Enugu,5500,14,77000,4200,31,On-Time
+2025-04-27,Milo Refill 500g,Beverages,Ibadan,7200,7,50400,6000,20,Critical Delay
+2025-04-27,Semovita 10kg,Swallow,Ibadan,10500,24,252000,9200,14.1,Critical Delay
+2025-04-28,Yellow Garri (Paint),Tubers,Lagos (Ikeja),5500,12,66000,4200,31,Delayed
+2025-04-28,Indomie Super Pack,Noodles,Ibadan,20000,-1,0,16800,19,On-Time
+2025-04-28,Dangote Sugar 1kg,Sweeteners,Kano,4000,26,104000,3200,25,Delayed
+2025-04-28,Yellow Garri (Paint),Tubers,Port Harcourt,5500,7,38500,4200,31,Critical Delay
+2025-04-29,Local Rice (50kg),Grains,Abuja,120000,11,1320000,105000,14.3,Critical Delay
+2025-04-29,Frozen Turkey (kg),Meat,Port Harcourt,10500,26,273000,8800,19.3,On-Time
+2025-04-29,Indomie Super Pack,Noodles,Lagos (Ikeja),20000,25,500000,16800,19,Delayed
+2025-04-29,Semovita 10kg,Swallow,Enugu,10500,10,105000,9200,14.1,Critical Delay
+2025-04-30,Local Rice (50kg),Grains,Kano,120000,16,1920000,105000,14.3,Delayed
+2025-04-30,Beans Brown (Oloyin),Grains,Lagos (Lekki),4500,3,13500,3200,40.6,Delayed
+2025-04-30,Kings Oil 5L,Oils,Lagos (Lekki),27000,6,162000,21500,25.6,On-Time
+2025-04-30,Local Rice (50kg),Grains,Enugu,120000,-1,0,105000,14.3,Critical Delay
+2025-01-05,Local Rice (50kg),Grains,Ibadan,120000,0,0,105000,14.3,Critical Delay
+2025-05-01,Kings Oil 5L,Oils,Kano,27000,9,243000,21500,25.6,Critical Delay
+2025-01-05,Indomie Super Pack,Noodles,Kano,20000,9,180000,16800,19,Critical Delay
+2025-05-01,Milo Refill 500g,Beverages,Kano,7200,8,57600,6000,20,Critical Delay
+2025-05-02,Dangote Sugar 1kg,Sweeteners,Abuja,3500,6,21000,3200,9.4,Delayed
+2025-05-02,Kings Oil 5L,Oils,Kano,27000,30,810000,21500,25.6,Delayed
+2025-05-02,Frozen Turkey (kg),Meat,Ibadan,11000,12,132000,8800,25,Delayed
+2025-05-02,Yellow Garri (Paint),Tubers,Kano,5500,24,132000,4200,31,Critical Delay
+2025-05-03,Frozen Turkey (kg),Meat,Lagos (Ikeja),11000,13,143000,8800,25,Critical Delay
+2025-05-03,Frozen Turkey (kg),Meat,Abuja,11000,23,253000,8800,25,Delayed
+2025-05-03,Peak Milk 400g,Dairy,Ibadan,5800,2,11600,4900,18.4,On-Time
+2025-05-03,Local Rice (50kg),Grains,Enugu,119500,20,2390000,105000,13.8,On-Time
+2025-05-04,Frozen Turkey (kg),Meat,Kano,11000,22,242000,8800,25,Critical Delay
+2025-05-04,Frozen Turkey (kg),Meat,Abuja,11000,12,132000,8800,25,On-Time
+2025-04-05,Dangote Sugar 1kg,Sweeteners,Enugu,4000,9,36000,3200,25,Delayed
+2025-05-04,Indomie Super Pack,Noodles,Enugu,20000,26,520000,16800,19,Critical Delay
+2025-05-05,Peak Milk 400g,Dairy,Lagos (Lekki),5800,0,0,4900,18.4,Delayed
+2025-05-05,Dangote Sugar 1kg,Sweeteners,Abuja,4000,28,112000,3200,25,Delayed
+2025-05-05,Milo Refill 500g,Beverages,Kano,7200,10,72000,6000,20,On-Time
+2025-05-05,Local Rice (50kg),Grains,Lagos (Lekki),120000,7,840000,105000,14.3,On-Time
+2025-05-06,Peak Milk 400g,Dairy,Lagos (Ikeja),5800,-1,0,4900,18.4,Delayed
+2025-12-26,Semovita 10kg,Swallow,Abuja,10500,8,84000,9200,14.1,Critical Delay
+2025-06-05,Power Oil (Sachet),Oils,Lagos (Ikeja),500,10,5000,400,25,Critical Delay
+2025-06-05,Kings Oil 5L,Oils,Lagos (Ikeja),27000,-2,0,21500,25.6,Delayed
+2025-05-07,Indomie Super Pack,Noodles,Kano,20000,25,500000,16800,19,Critical Delay
+2025-07-05,Kings Oil 5L,Oils,Ibadan,27000,2,54000,21500,25.6,Delayed
+2025-05-07,Milo Refill 500g,Beverages,Abuja,7200,6,43200,6000,20,On-Time
+2025-05-07,Semovita 10kg,Swallow,Lagos (Lekki),10500,11,115500,9200,14.1,On-Time
+2025-08-05,Milo Refill 500g,Beverages,Ibadan,7200,-2,0,6000,20,On-Time
+2025-08-05,Power Oil (Sachet),Oils,Lagos (Lekki),500,18,9000,400,25,On-Time
+2025-08-05,Peak Milk 400g,Dairy,Lagos (Ikeja),5800,3,17400,4900,18.4,Critical Delay
+2025-08-05,Local Rice (50kg),Grains,Kano,120000,1,120000,105000,14.3,Delayed
+2025-09-05,Peak Milk 400g,Dairy,Lagos (Ikeja),5800,11,63800,4900,18.4,Delayed
+2025-05-09,Yam Tuber (Large),Produce,Lagos (Lekki),12000,15,180000,8000,50,Critical Delay
+2025-05-09,Kings Oil 5L,Oils,Lagos (Lekki),27000,10,270000,21500,25.6,Critical Delay
+2025-09-05,Frozen Turkey (kg),Meat,Enugu,11000,15,165000,8800,25,Delayed
+2025-05-10,Power Oil (Sachet),Oils,Lagos (Ikeja),500,6,3000,400,25,Critical Delay
+2025-10-05,Indomie Super Pack,Noodles,Port Harcourt,20000,28,560000,16800,19,Critical Delay
+2025-10-05,Semovita 10kg,Swallow,Ibadan,10500,21,220500,9200,14.1,Delayed
+2025-10-05,Kings Oil 5L,Oils,Port Harcourt,27000,23,621000,21500,25.6,Delayed
+2025-11-05,Yam Tuber (Large),Produce,Lagos (Lekki),12000,23,276000,8000,50,Delayed
+2025-05-11,Indomie Super Pack,Noodles,Enugu,20000,26,520000,16800,19,On-Time
+2025-05-11,Yam Tuber (Large),Produce,Ibadan,12000,30,360000,8000,50,Delayed
+2025-11-05,Yam Tuber (Large),Produce,Lagos (Lekki),12000,7,84000,8000,50,Delayed
+2025-05-12,Semovita 10kg,Swallow,Lagos (Ikeja),10000,19,190000,9200,8.7,Delayed
+2025-05-12,Dangote Sugar 1kg,Sweeteners,Lagos (Ikeja),4000,0,0,3200,25,Delayed
+2025-05-12,Indomie Super Pack,Noodles,Lagos (Ikeja),20000,12,240000,16800,19,Delayed
+2025-12-05,Frozen Turkey (kg),Meat,Port Harcourt,11000,3,33000,8800,25,Critical Delay
+2025-05-13,Peak Milk 400g,Dairy,Ibadan,5800,3,17400,4900,18.4,On-Time
+2025-05-13,Beans Brown (Oloyin),Grains,Lagos (Lekki),4500,17,76500,3200,40.6,Delayed
+2025-05-13,Peak Milk 400g,Dairy,Port Harcourt,5800,17,98600,4900,18.4,Delayed
+2025-05-13,Peak Milk 400g,Dairy,Port Harcourt,5800,24,139200,4900,18.4,Delayed
+2025-05-14,Kings Oil 5L,Oils,Abuja,27000,16,432000,21500,25.6,Delayed
+2025-05-14,Yellow Garri (Paint),Tubers,Enugu,5500,12,66000,4200,31,Critical Delay
+2025-05-14,Peak Milk 400g,Dairy,Lagos (Ikeja),5800,0,0,4900,18.4,Delayed
+2025-05-14,Kings Oil 5L,Oils,Port Harcourt,27000,27,729000,21500,25.6,Delayed
+2025-05-15,Dangote Sugar 1kg,Sweeteners,Port Harcourt,4000,24,96000,3200,25,On-Time
+2025-05-15,Beans Brown (Oloyin),Grains,Port Harcourt,4500,8,36000,3200,40.6,Delayed
+2025-05-15,Beans Brown (Oloyin),Grains,Enugu,4500,13,58500,3200,40.6,Delayed
+2025-05-15,Indomie Super Pack,Noodles,Lagos (Ikeja),20000,1,20000,16800,19,Critical Delay
+2025-05-16,Frozen Turkey (kg),Meat,Lagos (Ikeja),11000,26,286000,8800,25,On-Time
+2025-05-16,Peak Milk 400g,Dairy,Lagos (Lekki),5800,2,11600,4900,18.4,On-Time
+2025-05-16,Peak Milk 400g,Dairy,Lagos (Ikeja),5800,28,162400,4900,18.4,On-Time
+2025-05-16,Peak Milk 400g,Dairy,Abuja,5800,21,121800,4900,18.4,On-Time
+2025-05-17,Kings Oil 5L,Oils,Enugu,27000,4,108000,21500,25.6,On-Time
+2025-05-17,Local Rice (50kg),Grains,Lagos (Lekki),120000,4,480000,105000,14.3,Critical Delay
+2025-05-17,Semovita 10kg,Swallow,Abuja,10500,11,115500,9200,14.1,Critical Delay
+2025-05-17,Semovita 10kg,Swallow,Abuja,10000,12,120000,9200,8.7,On-Time
+2025-05-18,Peak Milk 400g,Dairy,Lagos (Lekki),5800,7,40600,4900,18.4,Critical Delay
+2025-05-18,Yam Tuber (Large),Produce,Lagos (Lekki),12000,0,0,8000,50,On-Time
+2025-05-18,Yellow Garri (Paint),Tubers,Lagos (Ikeja),5500,0,0,4200,31,Delayed
+2025-05-18,Power Oil (Sachet),Oils,Abuja,500,-1,0,400,25,Delayed
+2025-05-19,Peak Milk 400g,Dairy,Lagos (Lekki),5800,-1,0,4900,18.4,Critical Delay
+2025-05-19,Kings Oil 5L,Oils,Lagos (Ikeja),27000,23,621000,21500,25.6,Delayed
+2025-05-19,Local Rice (50kg),Grains,Lagos (Ikeja),120000,20,2400000,105000,14.3,Delayed
+2025-05-19,Peak Milk 400g,Dairy,Abuja,5800,8,46400,4900,18.4,Delayed
+2025-05-20,Yellow Garri (Paint),Tubers,Lagos (Lekki),5000,8,40000,4200,19,Delayed
+2025-05-20,Frozen Turkey (kg),Meat,Lagos (Ikeja),11000,5,55000,8800,25,On-Time
+2025-05-20,Yam Tuber (Large),Produce,Port Harcourt,12000,0,0,8000,50,Critical Delay
+2025-05-20,Yam Tuber (Large),Produce,Lagos (Ikeja),12000,5,60000,8000,50,Delayed
+2025-05-21,Power Oil (Sachet),Oils,Abuja,0,11,0,400,-100,Critical Delay
+2025-05-21,Semovita 10kg,Swallow,Lagos (Ikeja),10500,25,262500,9200,14.1,Delayed
+2025-05-21,Semovita 10kg,Swallow,Enugu,10500,18,189000,9200,14.1,Delayed
+2025-05-21,Power Oil (Sachet),Oils,Kano,500,-2,0,400,25,On-Time
+2025-05-22,Peak Milk 400g,Dairy,Lagos (Ikeja),5800,19,110200,4900,18.4,Critical Delay
+2025-05-22,Milo Refill 500g,Beverages,Kano,7200,4,28800,6000,20,On-Time
+2025-05-22,Peak Milk 400g,Dairy,Lagos (Ikeja),5800,18,104400,4900,18.4,Delayed
+2025-05-22,Beans Brown (Oloyin),Grains,Lagos (Lekki),4500,27,121500,3200,40.6,On-Time
+2025-05-23,Dangote Sugar 1kg,Sweeteners,Port Harcourt,4000,24,96000,3200,25,Delayed
+2025-05-23,Milo Refill 500g,Beverages,Abuja,7200,-1,0,6000,20,On-Time
+2025-05-23,Dangote Sugar 1kg,Sweeteners,Enugu,4000,1,4000,3200,25,Delayed
+2025-05-23,Yellow Garri (Paint),Tubers,Enugu,5500,27,148500,4200,31,On-Time
+2025-05-24,Power Oil (Sachet),Oils,Abuja,500,21,10500,400,25,Delayed
+2025-05-24,Semovita 10kg,Swallow,Lagos (Ikeja),10500,28,294000,9200,14.1,On-Time
+2025-05-24,Power Oil (Sachet),Oils,Port Harcourt,500,12,6000,400,25,Delayed
+2025-05-24,Yam Tuber (Large),Produce,Enugu,12000,26,312000,8000,50,Delayed
+2025-05-25,Milo Refill 500g,Beverages,Enugu,7200,23,165600,6000,20,On-Time
+2025-05-25,Indomie Super Pack,Noodles,Enugu,19500,17,331500,16800,16.1,Delayed
+2025-05-25,Dangote Sugar 1kg,Sweeteners,Ibadan,4000,22,88000,3200,25,Critical Delay
+2025-05-25,Yellow Garri (Paint),Tubers,Port Harcourt,5500,17,93500,4200,31,Delayed
+2025-05-26,Yellow Garri (Paint),Tubers,Enugu,5500,29,159500,4200,31,Delayed
+2025-05-26,Yellow Garri (Paint),Tubers,Enugu,5500,0,0,4200,31,Critical Delay
+2025-05-26,Milo Refill 500g,Beverages,Enugu,7200,30,216000,6000,20,On-Time
+2025-05-26,Beans Brown (Oloyin),Grains,Enugu,4500,22,99000,3200,40.6,Critical Delay
+2025-05-27,Beans Brown (Oloyin),Grains,Ibadan,4500,23,103500,3200,40.6,On-Time
+2025-05-27,Milo Refill 500g,Beverages,Abuja,7200,6,43200,6000,20,Delayed
+2025-05-27,Power Oil (Sachet),Oils,Port Harcourt,500,17,8500,400,25,On-Time
+2025-05-27,Frozen Turkey (kg),Meat,Kano,11000,10,110000,8800,25,On-Time
+2025-05-28,Milo Refill 500g,Beverages,Enugu,7200,13,93600,6000,20,Delayed
+2025-05-28,Kings Oil 5L,Oils,Lagos (Lekki),27000,18,486000,21500,25.6,On-Time
+2025-05-28,Yam Tuber (Large),Produce,Kano,12000,23,276000,8000,50,On-Time
+2025-05-28,Yellow Garri (Paint),Tubers,Enugu,5500,1,5500,4200,31,Delayed
+2025-05-29,Semovita 10kg,Swallow,Ibadan,10500,15,157500,9200,14.1,Delayed
+2025-05-29,Semovita 10kg,Swallow,Abuja,10500,9,94500,9200,14.1,On-Time
+2025-05-29,Yam Tuber (Large),Produce,Lagos (Ikeja),12000,-2,0,8000,50,On-Time
+2025-05-29,Frozen Turkey (kg),Meat,Kano,10500,1,10500,8800,19.3,On-Time
+2025-05-30,Beans Brown (Oloyin),Grains,Ibadan,4500,16,72000,3200,40.6,Delayed
+2025-05-30,Yam Tuber (Large),Produce,Port Harcourt,12000,22,264000,8000,50,On-Time
+2025-05-30,Power Oil (Sachet),Oils,Ibadan,500,10,5000,400,25,On-Time
+2025-05-30,Milo Refill 500g,Beverages,Ibadan,7200,23,165600,6000,20,Delayed
+2025-05-31,Semovita 10kg,Swallow,Kano,10500,9,94500,9200,14.1,On-Time
+2025-05-31,Yam Tuber (Large),Produce,Enugu,12000,18,216000,8000,50,Critical Delay
+2025-05-31,Semovita 10kg,Swallow,Lagos (Ikeja),10500,11,115500,9200,14.1,Critical Delay
+2025-05-31,Power Oil (Sachet),Oils,Enugu,500,23,11500,400,25,On-Time
+2025-01-06,Local Rice (50kg),Grains,Lagos (Ikeja),120000,10,1200000,105000,14.3,Delayed
+2025-01-06,Peak Milk 400g,Dairy,Ibadan,5800,6,34800,4900,18.4,Critical Delay
+2025-06-01,Power Oil (Sachet),Oils,Abuja,500,10,5000,400,25,Critical Delay
+2025-06-01,Kings Oil 5L,Oils,Kano,27000,-2,0,21500,25.6,Delayed
+2025-02-06,Power Oil (Sachet),Oils,Lagos (Ikeja),500,11,5500,400,25,Delayed
+2025-02-06,Power Oil (Sachet),Oils,Ibadan,500,30,15000,400,25,Delayed
+2025-06-02,Milo Refill 500g,Beverages,Abuja,7200,8,57600,6000,20,On-Time
+2025-02-06,Frozen Turkey (kg),Meat,Ibadan,11000,12,132000,8800,25,Delayed
+2025-03-06,Power Oil (Sachet),Oils,Port Harcourt,500,8,4000,400,25,On-Time
+2025-06-03,Indomie Super Pack,Noodles,Kano,20000,5,100000,16800,19,On-Time
+2025-03-06,Yellow Garri (Paint),Tubers,Lagos (Lekki),5500,2,11000,4200,31,Delayed
+2025-03-06,Yellow Garri (Paint),Tubers,Enugu,5500,-2,0,4200,31,On-Time
+2025-06-04,Milo Refill 500g,Beverages,Kano,7200,9,64800,6000,20,Delayed
+2025-06-04,Yam Tuber (Large),Produce,Port Harcourt,12000,20,240000,8000,50,Critical Delay
+2025-06-04,Peak Milk 400g,Dairy,Port Harcourt,5800,8,46400,4900,18.4,Delayed
+2025-04-06,Yellow Garri (Paint),Tubers,Enugu,5500,7,38500,4200,31,Delayed
+2025-06-05,Peak Milk 400g,Dairy,Lagos (Lekki),5800,13,75400,4900,18.4,On-Time
+2025-06-05,Yellow Garri (Paint),Tubers,Ibadan,5000,9,45000,4200,19,Delayed
+2025-05-06,Yam Tuber (Large),Produce,Enugu,12000,23,276000,8000,50,On-Time
+2025-06-05,Power Oil (Sachet),Oils,Ibadan,500,9,4500,400,25,Delayed
+2025-06-06,Yellow Garri (Paint),Tubers,Lagos (Lekki),5500,8,44000,4200,31,On-Time
+2025-06-06,Dangote Sugar 1kg,Sweeteners,Enugu,4000,18,72000,3200,25,Critical Delay
+2025-06-06,Indomie Super Pack,Noodles,Abuja,20000,-1,0,16800,19,Delayed
+2025-06-06,Yam Tuber (Large),Produce,Enugu,12000,0,0,8000,50,On-Time
+2025-06-07,Yam Tuber (Large),Produce,Kano,12000,10,120000,8000,50,On-Time
+2025-07-06,Peak Milk 400g,Dairy,Enugu,5800,10,58000,4900,18.4,Delayed
+2025-07-06,Milo Refill 500g,Beverages,Ibadan,7200,29,208800,6000,20,On-Time
+2025-06-07,Beans Brown (Oloyin),Grains,Port Harcourt,4500,25,112500,3200,40.6,Critical Delay
+2025-08-06,Milo Refill 500g,Beverages,Lagos (Ikeja),7200,5,36000,6000,20,Delayed
+2025-08-06,Frozen Turkey (kg),Meat,Lagos (Lekki),11000,-1,0,8800,25,Delayed
+2025-06-08,Frozen Turkey (kg),Meat,Lagos (Ikeja),11000,17,187000,8800,25,On-Time
+2025-08-06,Semovita 10kg,Swallow,Ibadan,10500,8,84000,9200,14.1,On-Time
+2025-09-06,Peak Milk 400g,Dairy,Port Harcourt,5800,2,11600,4900,18.4,Delayed
+2025-06-09,Milo Refill 500g,Beverages,Abuja,7200,5,36000,6000,20,On-Time
+2025-06-09,Peak Milk 400g,Dairy,Abuja,5800,9,52200,4900,18.4,Delayed
+2025-06-09,Semovita 10kg,Swallow,Port Harcourt,10500,12,126000,9200,14.1,Critical Delay
+2025-06-10,Semovita 10kg,Swallow,Kano,10500,25,262500,9200,14.1,Delayed
+2025-06-10,Milo Refill 500g,Beverages,Abuja,7200,26,187200,6000,20,Critical Delay
+2025-06-10,Frozen Turkey (kg),Meat,Port Harcourt,11000,19,209000,8800,25,On-Time
+2025-10-06,Yellow Garri (Paint),Tubers,Ibadan,5500,14,77000,4200,31,On-Time
+2025-06-11,Local Rice (50kg),Grains,Kano,120000,22,2640000,105000,14.3,Critical Delay
+2025-11-06,Yellow Garri (Paint),Tubers,Abuja,5500,-1,0,4200,31,Critical Delay
+2025-06-11,Indomie Super Pack,Noodles,Abuja,20000,6,120000,16800,19,Delayed
+2025-11-06,Semovita 10kg,Swallow,Ibadan,10500,16,168000,9200,14.1,Delayed
+2025-06-12,Yam Tuber (Large),Produce,Lagos (Ikeja),12000,15,180000,8000,50,On-Time
+2025-12-06,Frozen Turkey (kg),Meat,Kano,11000,19,209000,8800,25,Delayed
+2025-12-06,Yam Tuber (Large),Produce,Port Harcourt,12000,18,216000,8000,50,On-Time
+2025-06-12,Dangote Sugar 1kg,Sweeteners,Port Harcourt,4000,24,96000,3200,25,Critical Delay
+2025-06-13,Frozen Turkey (kg),Meat,Enugu,11000,4,44000,8800,25,Delayed
+2025-06-13,Local Rice (50kg),Grains,Enugu,120000,1,120000,105000,14.3,Critical Delay
+2025-06-13,Kings Oil 5L,Oils,Lagos (Lekki),27000,28,756000,21500,25.6,Critical Delay
+2025-06-13,Semovita 10kg,Swallow,Port Harcourt,10000,25,250000,9200,8.7,Delayed
+2025-06-14,Yellow Garri (Paint),Tubers,Port Harcourt,5500,3,16500,4200,31,On-Time
+2025-06-14,Kings Oil 5L,Oils,Lagos (Ikeja),27000,27,729000,21500,25.6,Delayed
+2025-06-14,Dangote Sugar 1kg,Sweeteners,Port Harcourt,4000,6,24000,3200,25,Delayed
+2025-06-14,Power Oil (Sachet),Oils,Kano,500,12,6000,400,25,On-Time
+2025-06-15,Yam Tuber (Large),Produce,Ibadan,12000,6,72000,8000,50,Delayed
+2025-06-15,Local Rice (50kg),Grains,Lagos (Ikeja),120000,18,2160000,105000,14.3,Delayed
+2025-06-15,Kings Oil 5L,Oils,Kano,27000,16,432000,21500,25.6,Critical Delay
+2025-06-15,Frozen Turkey (kg),Meat,Lagos (Lekki),10500,10,105000,8800,19.3,Critical Delay
+2025-06-16,Local Rice (50kg),Grains,Enugu,119500,-2,0,105000,13.8,On-Time
+2025-06-16,Semovita 10kg,Swallow,Lagos (Ikeja),10500,13,136500,9200,14.1,On-Time
+2025-06-16,Dangote Sugar 1kg,Sweeteners,Ibadan,4000,14,56000,3200,25,Critical Delay
+2025-06-16,Milo Refill 500g,Beverages,Lagos (Lekki),7200,18,129600,6000,20,Critical Delay
+2025-06-17,Kings Oil 5L,Oils,Abuja,27000,18,486000,21500,25.6,On-Time
+2025-06-17,Milo Refill 500g,Beverages,Lagos (Lekki),7200,30,216000,6000,20,On-Time
+2025-06-17,Peak Milk 400g,Dairy,Port Harcourt,5300,12,63600,4900,8.2,On-Time
+2025-06-17,Indomie Super Pack,Noodles,Port Harcourt,20000,14,280000,16800,19,Delayed
+2025-06-18,Indomie Super Pack,Noodles,Lagos (Ikeja),20000,13,260000,16800,19,Delayed
+2025-06-18,Indomie Super Pack,Noodles,Port Harcourt,20000,14,280000,16800,19,Delayed
+2025-06-18,Local Rice (50kg),Grains,Lagos (Ikeja),119500,19,2270500,105000,13.8,Delayed
+2025-06-18,Local Rice (50kg),Grains,Ibadan,120000,21,2520000,105000,14.3,Critical Delay
+2025-06-19,Yellow Garri (Paint),Tubers,Ibadan,5500,17,93500,4200,31,Delayed
+2025-06-19,Peak Milk 400g,Dairy,Lagos (Lekki),5800,28,162400,4900,18.4,Delayed
+2025-06-19,Yellow Garri (Paint),Tubers,Lagos (Ikeja),5500,22,121000,4200,31,On-Time
+2025-06-19,Milo Refill 500g,Beverages,Enugu,7200,9,64800,6000,20,Delayed
+2025-06-20,Kings Oil 5L,Oils,Kano,27000,5,135000,21500,25.6,Delayed
+2025-06-20,Peak Milk 400g,Dairy,Abuja,5800,9,52200,4900,18.4,Delayed
+2025-06-20,Kings Oil 5L,Oils,Lagos (Lekki),27000,20,540000,21500,25.6,Delayed
+2025-06-20,Dangote Sugar 1kg,Sweeteners,Lagos (Ikeja),4000,17,68000,3200,25,Critical Delay
+2025-06-21,Yam Tuber (Large),Produce,Lagos (Lekki),12000,16,192000,8000,50,Delayed
+2025-06-21,Indomie Super Pack,Noodles,Enugu,20000,28,560000,16800,19,On-Time
+2025-06-21,Indomie Super Pack,Noodles,Enugu,20000,4,80000,16800,19,On-Time
+2025-06-21,Beans Brown (Oloyin),Grains,Ibadan,4000,5,20000,3200,25,Critical Delay
+2025-06-22,Yellow Garri (Paint),Tubers,Lagos (Lekki),5500,18,99000,4200,31,Delayed
+2025-06-22,Yellow Garri (Paint),Tubers,Port Harcourt,5500,11,60500,4200,31,Delayed
+2025-06-22,Peak Milk 400g,Dairy,Port Harcourt,5800,9,52200,4900,18.4,Delayed
+2025-06-22,Indomie Super Pack,Noodles,Kano,20000,5,100000,16800,19,Critical Delay
+2025-06-23,Yam Tuber (Large),Produce,Lagos (Ikeja),11500,23,264500,8000,43.8,On-Time
+2025-06-23,Power Oil (Sachet),Oils,Lagos (Ikeja),500,14,7000,400,25,Delayed
+2025-06-23,Local Rice (50kg),Grains,Ibadan,120000,21,2520000,105000,14.3,On-Time
+2025-06-23,Kings Oil 5L,Oils,Kano,27000,29,783000,21500,25.6,Critical Delay
+2025-06-24,Frozen Turkey (kg),Meat,Lagos (Lekki),11000,12,132000,8800,25,On-Time
+2025-06-24,Local Rice (50kg),Grains,Lagos (Lekki),120000,3,360000,105000,14.3,On-Time
+2025-06-24,Beans Brown (Oloyin),Grains,Enugu,4500,-2,0,3200,40.6,On-Time
+2025-06-24,Yellow Garri (Paint),Tubers,Ibadan,5500,10,55000,4200,31,Delayed
+2025-06-25,Indomie Super Pack,Noodles,Port Harcourt,20000,0,0,16800,19,Delayed
+2025-06-25,Yam Tuber (Large),Produce,Ibadan,12000,30,360000,8000,50,Critical Delay
+2025-06-25,Peak Milk 400g,Dairy,Ibadan,5800,18,104400,4900,18.4,Delayed
+2025-06-25,Yam Tuber (Large),Produce,Ibadan,12000,9,108000,8000,50,Critical Delay
+2025-06-26,Milo Refill 500g,Beverages,Ibadan,7200,12,86400,6000,20,Critical Delay
+2025-06-26,Beans Brown (Oloyin),Grains,Enugu,4500,30,135000,3200,40.6,Delayed
+2025-06-26,Frozen Turkey (kg),Meat,Enugu,11000,18,198000,8800,25,Critical Delay
+2025-06-26,Frozen Turkey (kg),Meat,Enugu,11000,27,297000,8800,25,Critical Delay
+2025-06-27,Indomie Super Pack,Noodles,Lagos (Ikeja),20000,13,260000,16800,19,On-Time
+2025-06-27,Yellow Garri (Paint),Tubers,Abuja,5500,6,33000,4200,31,Delayed
+2025-06-27,Yellow Garri (Paint),Tubers,Lagos (Ikeja),5500,9,49500,4200,31,On-Time
+2025-06-27,Yam Tuber (Large),Produce,Abuja,12000,16,192000,8000,50,Delayed
+2025-06-28,Beans Brown (Oloyin),Grains,Enugu,4500,0,0,3200,40.6,Delayed
+2025-06-28,Yellow Garri (Paint),Tubers,Ibadan,5500,17,93500,4200,31,On-Time
+2025-06-28,Yellow Garri (Paint),Tubers,Port Harcourt,5500,9,49500,4200,31,On-Time
+2025-06-28,Milo Refill 500g,Beverages,Enugu,7200,28,201600,6000,20,Critical Delay
+2025-06-29,Power Oil (Sachet),Oils,Lagos (Ikeja),500,18,9000,400,25,Critical Delay
+2025-06-29,Local Rice (50kg),Grains,Abuja,120000,12,1440000,105000,14.3,Delayed
+2025-06-29,Yellow Garri (Paint),Tubers,Lagos (Ikeja),5500,11,60500,4200,31,Delayed
+2025-06-29,Beans Brown (Oloyin),Grains,Lagos (Ikeja),4500,9,40500,3200,40.6,Delayed
+2025-06-30,Milo Refill 500g,Beverages,Lagos (Ikeja),7200,14,100800,6000,20,On-Time
+2025-06-30,Milo Refill 500g,Beverages,Port Harcourt,7200,28,201600,6000,20,Critical Delay
+2025-06-30,Milo Refill 500g,Beverages,Port Harcourt,7200,1,7200,6000,20,On-Time
+2025-06-30,Power Oil (Sachet),Oils,Port Harcourt,500,4,2000,400,25,Delayed
+2025-01-07,Yam Tuber (Large),Produce,Lagos (Ikeja),12000,2,24000,8000,50,Delayed
+2025-07-01,Yam Tuber (Large),Produce,Lagos (Lekki),12000,25,300000,8000,50,Critical Delay
+2025-07-01,Indomie Super Pack,Noodles,Lagos (Lekki),20000,16,320000,16800,19,On-Time
+2025-07-01,Milo Refill 500g,Beverages,Enugu,7200,6,43200,6000,20,Delayed
+2025-02-07,Milo Refill 500g,Beverages,Lagos (Ikeja),7200,30,216000,6000,20,Critical Delay
+2025-02-07,Milo Refill 500g,Beverages,Enugu,7200,3,21600,6000,20,Critical Delay
+2025-07-02,Peak Milk 400g,Dairy,Enugu,5800,11,63800,4900,18.4,Critical Delay
+2025-07-02,Power Oil (Sachet),Oils,Lagos (Lekki),500,27,13500,400,25,Critical Delay
+2025-03-07,Peak Milk 400g,Dairy,Ibadan,5800,2,11600,4900,18.4,Critical Delay
+2025-07-03,Dangote Sugar 1kg,Sweeteners,Ibadan,4000,8,32000,3200,25,Delayed
+2025-03-07,Indomie Super Pack,Noodles,Lagos (Lekki),20000,10,200000,16800,19,Delayed
+2025-07-03,Frozen Turkey (kg),Meat,Abuja,11000,11,121000,8800,25,Delayed
+2025-07-04,Beans Brown (Oloyin),Grains,Lagos (Ikeja),4000,29,116000,3200,25,Delayed
+2025-04-07,Indomie Super Pack,Noodles,Lagos (Lekki),20000,17,340000,16800,19,On-Time
+2025-04-07,Yam Tuber (Large),Produce,Kano,12000,25,300000,8000,50,Critical Delay
+2025-07-04,Indomie Super Pack,Noodles,Port Harcourt,20000,2,40000,16800,19,On-Time
+2025-05-07,Semovita 10kg,Swallow,Lagos (Lekki),10500,5,52500,9200,14.1,On-Time
+2025-07-05,Power Oil (Sachet),Oils,Ibadan,500,25,12500,400,25,On-Time
+2025-05-07,Indomie Super Pack,Noodles,Ibadan,20000,8,160000,16800,19,Critical Delay
+2025-05-07,Local Rice (50kg),Grains,Lagos (Ikeja),120000,23,2760000,105000,14.3,Delayed
+2025-07-06,Power Oil (Sachet),Oils,Lagos (Lekki),500,10,5000,400,25,Critical Delay
+2025-07-06,Yam Tuber (Large),Produce,Abuja,12000,23,276000,8000,50,On-Time
+2025-07-06,Dangote Sugar 1kg,Sweeteners,Enugu,4000,15,60000,3200,25,Delayed
+2025-06-07,Dangote Sugar 1kg,Sweeteners,Port Harcourt,4000,20,80000,3200,25,Delayed
+2025-07-07,Yellow Garri (Paint),Tubers,Ibadan,5500,4,22000,4200,31,Delayed
+2025-07-07,Indomie Super Pack,Noodles,Abuja,20000,19,380000,16800,19,Delayed
+2025-07-07,Milo Refill 500g,Beverages,Kano,7200,3,21600,6000,20,Delayed
+2025-07-07,Frozen Turkey (kg),Meat,Enugu,11000,21,231000,8800,25,Critical Delay
+2025-07-08,Dangote Sugar 1kg,Sweeteners,Abuja,4000,26,104000,3200,25,On-Time
+2025-07-08,Semovita 10kg,Swallow,Lagos (Ikeja),10500,18,189000,9200,14.1,On-Time
+2025-08-07,Dangote Sugar 1kg,Sweeteners,Port Harcourt,4000,11,44000,3200,25,Critical Delay
+2025-08-07,Local Rice (50kg),Grains,Ibadan,120000,21,2520000,105000,14.3,On-Time
+2025-09-07,Peak Milk 400g,Dairy,Kano,5800,27,156600,4900,18.4,On-Time
+2025-09-07,Frozen Turkey (kg),Meat,Kano,11000,20,220000,8800,25,On-Time
+2025-07-09,Yellow Garri (Paint),Tubers,Abuja,5500,29,159500,4200,31,On-Time
+2025-07-09,Yellow Garri (Paint),Tubers,Port Harcourt,5500,16,88000,4200,31,Critical Delay
+2025-10-07,Local Rice (50kg),Grains,Ibadan,120000,30,3600000,105000,14.3,Delayed
+2025-07-10,Frozen Turkey (kg),Meat,Ibadan,11000,26,286000,8800,25,Delayed
+2025-07-10,Dangote Sugar 1kg,Sweeteners,Ibadan,4000,6,24000,3200,25,On-Time
+2025-07-10,Peak Milk 400g,Dairy,Kano,5800,7,40600,4900,18.4,Delayed
+2025-07-11,Beans Brown (Oloyin),Grains,Enugu,4500,-2,0,3200,40.6,Delayed
+2025-11-07,Kings Oil 5L,Oils,Abuja,27000,29,783000,21500,25.6,On-Time
+2025-11-07,Milo Refill 500g,Beverages,Lagos (Ikeja),7200,1,7200,6000,20,Delayed
+2025-07-11,Beans Brown (Oloyin),Grains,Enugu,4500,1,4500,3200,40.6,Critical Delay
+2025-07-12,Frozen Turkey (kg),Meat,Ibadan,11000,24,264000,8800,25,Critical Delay
+2025-12-07,Indomie Super Pack,Noodles,Lagos (Ikeja),20000,23,460000,16800,19,Delayed
+2025-07-12,Power Oil (Sachet),Oils,Lagos (Lekki),500,-2,0,400,25,Delayed
+2025-07-12,Yellow Garri (Paint),Tubers,Lagos (Ikeja),5000,8,40000,4200,19,Critical Delay
+2025-07-13,Power Oil (Sachet),Oils,Port Harcourt,500,30,15000,400,25,On-Time
+2025-07-13,Yellow Garri (Paint),Tubers,Enugu,5000,10,50000,4200,19,On-Time
+2025-07-13,Power Oil (Sachet),Oils,Lagos (Lekki),500,6,3000,400,25,Critical Delay
+2025-07-13,Semovita 10kg,Swallow,Port Harcourt,10500,27,283500,9200,14.1,Critical Delay
+2025-07-14,Dangote Sugar 1kg,Sweeteners,Ibadan,4000,-1,0,3200,25,Critical Delay
+2025-07-14,Power Oil (Sachet),Oils,Lagos (Ikeja),500,27,13500,400,25,On-Time
+2025-07-14,Peak Milk 400g,Dairy,Kano,5800,6,34800,4900,18.4,On-Time
+2025-07-14,Indomie Super Pack,Noodles,Ibadan,20000,5,100000,16800,19,On-Time
+2025-07-15,Dangote Sugar 1kg,Sweeteners,Lagos (Ikeja),4000,27,108000,3200,25,Delayed
+2025-07-15,Frozen Turkey (kg),Meat,Lagos (Lekki),11000,1,11000,8800,25,Delayed
+2025-07-15,Kings Oil 5L,Oils,Kano,27000,18,486000,21500,25.6,On-Time
+2025-07-15,Kings Oil 5L,Oils,Lagos (Lekki),27000,8,216000,21500,25.6,On-Time
+2025-07-16,Kings Oil 5L,Oils,Enugu,27000,17,459000,21500,25.6,Delayed
+2025-07-16,Power Oil (Sachet),Oils,Enugu,500,21,10500,400,25,Delayed
+2025-07-16,Peak Milk 400g,Dairy,Port Harcourt,5800,5,29000,4900,18.4,Critical Delay
+2025-07-16,Semovita 10kg,Swallow,Lagos (Ikeja),10500,14,147000,9200,14.1,Delayed
+2025-07-17,Power Oil (Sachet),Oils,Abuja,500,12,6000,400,25,Delayed
+2025-07-17,Frozen Turkey (kg),Meat,Port Harcourt,11000,20,220000,8800,25,On-Time
+2025-07-17,Dangote Sugar 1kg,Sweeteners,Ibadan,4000,-1,0,3200,25,On-Time
+2025-07-17,Dangote Sugar 1kg,Sweeteners,Kano,4000,30,120000,3200,25,Critical Delay
+2025-07-18,Frozen Turkey (kg),Meat,Enugu,11000,19,209000,8800,25,On-Time
+2025-07-18,Yam Tuber (Large),Produce,Port Harcourt,12000,18,216000,8000,50,Critical Delay
+2025-07-18,Power Oil (Sachet),Oils,Ibadan,500,28,14000,400,25,On-Time
+2025-07-18,Kings Oil 5L,Oils,Abuja,27000,2,54000,21500,25.6,Critical Delay
+2025-07-19,Yam Tuber (Large),Produce,Port Harcourt,12000,23,276000,8000,50,Critical Delay
+2025-07-19,Yam Tuber (Large),Produce,Lagos (Ikeja),12000,8,96000,8000,50,On-Time
+2025-07-19,Frozen Turkey (kg),Meat,Kano,11000,7,77000,8800,25,Critical Delay
+2025-07-19,Yam Tuber (Large),Produce,Ibadan,12000,12,144000,8000,50,Critical Delay
+2025-07-20,Indomie Super Pack,Noodles,Lagos (Lekki),20000,4,80000,16800,19,Delayed
+2025-07-20,Milo Refill 500g,Beverages,Port Harcourt,7200,29,208800,6000,20,Delayed
+2025-07-20,Local Rice (50kg),Grains,Kano,120000,10,1200000,105000,14.3,On-Time
+2025-07-20,Frozen Turkey (kg),Meat,Lagos (Ikeja),11000,-2,0,8800,25,On-Time
+2025-07-21,Semovita 10kg,Swallow,Abuja,10500,7,73500,9200,14.1,Critical Delay
+2025-07-21,Yellow Garri (Paint),Tubers,Enugu,5500,30,165000,4200,31,On-Time
+2025-07-21,Indomie Super Pack,Noodles,Kano,20000,26,520000,16800,19,Delayed
+2025-07-21,Indomie Super Pack,Noodles,Kano,20000,19,380000,16800,19,Delayed
+2025-07-22,Yellow Garri (Paint),Tubers,Lagos (Lekki),5500,13,71500,4200,31,Critical Delay
+2025-07-22,Yellow Garri (Paint),Tubers,Ibadan,5500,19,104500,4200,31,Delayed
+2025-07-22,Beans Brown (Oloyin),Grains,Ibadan,4500,30,135000,3200,40.6,Critical Delay
+2025-07-22,Peak Milk 400g,Dairy,Enugu,5300,16,84800,4900,8.2,Delayed
+2025-07-23,Semovita 10kg,Swallow,Ibadan,10500,2,21000,9200,14.1,On-Time
+2025-07-23,Dangote Sugar 1kg,Sweeteners,Abuja,4000,10,40000,3200,25,Delayed
+2025-07-23,Local Rice (50kg),Grains,Enugu,120000,18,2160000,105000,14.3,Critical Delay
+2025-07-23,Semovita 10kg,Swallow,Abuja,10500,22,231000,9200,14.1,Critical Delay
+2025-07-24,Frozen Turkey (kg),Meat,Ibadan,11000,14,154000,8800,25,Critical Delay
+2025-07-24,Yellow Garri (Paint),Tubers,Enugu,5500,28,154000,4200,31,On-Time
+2025-07-24,Kings Oil 5L,Oils,Kano,27000,23,621000,21500,25.6,On-Time
+2025-07-24,Frozen Turkey (kg),Meat,Ibadan,11000,23,253000,8800,25,Critical Delay
+2025-07-25,Yam Tuber (Large),Produce,Ibadan,12000,9,108000,8000,50,On-Time
+2025-07-25,Semovita 10kg,Swallow,Abuja,10500,30,315000,9200,14.1,On-Time
+2025-07-25,Semovita 10kg,Swallow,Abuja,10500,14,147000,9200,14.1,On-Time
+2025-07-25,Semovita 10kg,Swallow,Lagos (Ikeja),10500,5,52500,9200,14.1,On-Time
+2025-07-26,Kings Oil 5L,Oils,Lagos (Ikeja),27000,17,459000,21500,25.6,On-Time
+2025-07-26,Kings Oil 5L,Oils,Lagos (Lekki),27000,4,108000,21500,25.6,On-Time
+2025-07-26,Yam Tuber (Large),Produce,Enugu,12000,2,24000,8000,50,Critical Delay
+2025-07-26,Yam Tuber (Large),Produce,Kano,12000,29,348000,8000,50,Delayed
+2025-07-27,Semovita 10kg,Swallow,Abuja,10500,30,315000,9200,14.1,On-Time
+2025-07-27,Yellow Garri (Paint),Tubers,Lagos (Ikeja),5000,1,5000,4200,19,On-Time
+2025-07-27,Yellow Garri (Paint),Tubers,Abuja,5500,23,126500,4200,31,Delayed
+2025-07-27,Yam Tuber (Large),Produce,Lagos (Ikeja),12000,13,156000,8000,50,Critical Delay
+2025-07-28,Peak Milk 400g,Dairy,Kano,5800,17,98600,4900,18.4,Delayed
+2025-07-28,Kings Oil 5L,Oils,Abuja,27000,24,648000,21500,25.6,Delayed
+2025-07-28,Dangote Sugar 1kg,Sweeteners,Port Harcourt,4000,-2,0,3200,25,Critical Delay
+2025-07-28,Semovita 10kg,Swallow,Enugu,10500,9,94500,9200,14.1,Delayed
+2025-07-29,Milo Refill 500g,Beverages,Lagos (Lekki),7200,11,79200,6000,20,Critical Delay
+2025-07-29,Kings Oil 5L,Oils,Port Harcourt,27000,28,756000,21500,25.6,Delayed
+2025-07-29,Yellow Garri (Paint),Tubers,Enugu,5500,1,5500,4200,31,Delayed
+2025-07-29,Milo Refill 500g,Beverages,Abuja,7200,-1,0,6000,20,Critical Delay
+2025-07-30,Yellow Garri (Paint),Tubers,Kano,5500,24,132000,4200,31,Delayed
+2025-07-30,Power Oil (Sachet),Oils,Enugu,500,7,3500,400,25,On-Time
+2025-07-30,Yellow Garri (Paint),Tubers,Kano,5500,18,99000,4200,31,Delayed
+2025-07-30,Yellow Garri (Paint),Tubers,Kano,5500,25,137500,4200,31,On-Time
+2025-07-31,Power Oil (Sachet),Oils,Port Harcourt,500,1,500,400,25,Critical Delay
+2025-07-31,Frozen Turkey (kg),Meat,Lagos (Ikeja),11000,-2,0,8800,25,On-Time
+2025-07-31,Milo Refill 500g,Beverages,Port Harcourt,7200,5,36000,6000,20,Critical Delay
+2025-07-31,Milo Refill 500g,Beverages,Kano,7200,20,144000,6000,20,Critical Delay
+2025-08-01,Frozen Turkey (kg),Meat,Abuja,11000,12,132000,8800,25,Delayed
+2025-08-01,Yellow Garri (Paint),Tubers,Ibadan,5500,8,44000,4200,31,Delayed
+2025-08-01,Power Oil (Sachet),Oils,Port Harcourt,500,14,7000,400,25,On-Time
+2025-08-01,Milo Refill 500g,Beverages,Lagos (Lekki),7200,-2,0,6000,20,Delayed
+2025-02-08,Local Rice (50kg),Grains,Port Harcourt,119500,17,2031500,105000,13.8,On-Time
+2025-08-02,Indomie Super Pack,Noodles,Kano,20000,11,220000,16800,19,On-Time
+2025-08-02,Indomie Super Pack,Noodles,Lagos (Ikeja),19500,28,546000,16800,16.1,On-Time
+2025-08-02,Kings Oil 5L,Oils,Abuja,27000,7,189000,21500,25.6,On-Time
+2025-08-03,Peak Milk 400g,Dairy,Enugu,5300,2,10600,4900,8.2,Delayed
+2025-08-03,Yam Tuber (Large),Produce,Kano,12000,12,144000,8000,50,Delayed
+2025-08-03,Indomie Super Pack,Noodles,Abuja,20000,24,480000,16800,19,On-Time
+2025-03-08,Frozen Turkey (kg),Meat,Lagos (Ikeja),11000,4,44000,8800,25,Critical Delay
+2025-04-08,Indomie Super Pack,Noodles,Lagos (Lekki),20000,16,320000,16800,19,On-Time
+2025-08-04,Peak Milk 400g,Dairy,Enugu,5800,24,139200,4900,18.4,Critical Delay
+2025-04-08,Frozen Turkey (kg),Meat,Port Harcourt,11000,5,55000,8800,25,On-Time
+2025-08-04,Milo Refill 500g,Beverages,Enugu,7200,16,115200,6000,20,On-Time
+2025-08-05,Semovita 10kg,Swallow,Enugu,10500,3,31500,9200,14.1,On-Time
+2025-08-05,Yam Tuber (Large),Produce,Enugu,12000,7,84000,8000,50,Delayed
+2025-08-05,Milo Refill 500g,Beverages,Lagos (Lekki),7200,-1,0,6000,20,Critical Delay
+2025-08-05,Dangote Sugar 1kg,Sweeteners,Ibadan,4000,26,104000,3200,25,Delayed
+2025-06-08,Local Rice (50kg),Grains,Port Harcourt,120000,10,1200000,105000,14.3,On-Time
+2025-06-08,Yellow Garri (Paint),Tubers,Lagos (Ikeja),5500,28,154000,4200,31,Critical Delay
+2025-08-06,Peak Milk 400g,Dairy,Kano,5800,28,162400,4900,18.4,Critical Delay
+2025-08-06,Beans Brown (Oloyin),Grains,Port Harcourt,4500,-2,0,3200,40.6,Critical Delay
+2025-08-07,Dangote Sugar 1kg,Sweeteners,Kano,4000,25,100000,3200,25,On-Time
+2025-07-08,Dangote Sugar 1kg,Sweeteners,Lagos (Lekki),4000,23,92000,3200,25,Delayed
+2025-08-07,Frozen Turkey (kg),Meat,Kano,11000,22,242000,8800,25,On-Time
+2025-08-07,Yam Tuber (Large),Produce,Lagos (Lekki),12000,24,288000,8000,50,Delayed
+2025-08-08,Dangote Sugar 1kg,Sweeteners,Lagos (Lekki),4000,15,60000,3200,25,Delayed
+2025-08-08,Yam Tuber (Large),Produce,Enugu,12000,30,360000,8000,50,Critical Delay
+2025-08-08,Yam Tuber (Large),Produce,Abuja,12000,30,360000,8000,50,Delayed
+2025-08-08,Peak Milk 400g,Dairy,Ibadan,5800,7,40600,4900,18.4,Critical Delay
+2025-08-09,Dangote Sugar 1kg,Sweeteners,Lagos (Lekki),4000,26,104000,3200,25,Delayed
+2025-08-09,Indomie Super Pack,Noodles,Kano,20000,12,240000,16800,19,Delayed
+2025-09-08,Power Oil (Sachet),Oils,Abuja,0,17,0,400,-100,Delayed
+2025-08-09,Indomie Super Pack,Noodles,Lagos (Ikeja),20000,25,500000,16800,19,On-Time
+2025-10-08,Beans Brown (Oloyin),Grains,Port Harcourt,4500,9,40500,3200,40.6,Critical Delay
+2025-08-10,Local Rice (50kg),Grains,Lagos (Ikeja),120000,3,360000,105000,14.3,Delayed
+2025-08-10,Dangote Sugar 1kg,Sweeteners,Port Harcourt,4000,5,20000,3200,25,On-Time
+2025-10-08,Local Rice (50kg),Grains,Ibadan,120000,7,840000,105000,14.3,Critical Delay
+2025-11-08,Power Oil (Sachet),Oils,Enugu,500,6,3000,400,25,Critical Delay
+2025-08-11,Kings Oil 5L,Oils,Abuja,27000,26,702000,21500,25.6,On-Time
+2025-11-08,Yam Tuber (Large),Produce,Lagos (Lekki),12000,11,132000,8000,50,Delayed
+2025-11-08,Semovita 10kg,Swallow,Ibadan,10500,15,157500,9200,14.1,On-Time
+2025-08-12,Local Rice (50kg),Grains,Abuja,120000,18,2160000,105000,14.3,On-Time
+2025-08-12,Milo Refill 500g,Beverages,Kano,7200,18,129600,6000,20,Critical Delay
+2025-12-08,Indomie Super Pack,Noodles,Lagos (Ikeja),20000,12,240000,16800,19,Critical Delay
+2025-12-08,Indomie Super Pack,Noodles,Ibadan,20000,-2,0,16800,19,Critical Delay
+2025-08-13,Indomie Super Pack,Noodles,Enugu,20000,15,300000,16800,19,Critical Delay
+2025-08-13,Local Rice (50kg),Grains,Lagos (Ikeja),120000,29,3480000,105000,14.3,Critical Delay
+2025-08-13,Local Rice (50kg),Grains,Kano,120000,23,2760000,105000,14.3,On-Time
+2025-08-13,Beans Brown (Oloyin),Grains,Port Harcourt,4500,20,90000,3200,40.6,Delayed
+2025-08-14,Semovita 10kg,Swallow,Port Harcourt,10500,25,262500,9200,14.1,On-Time
+2025-08-14,Beans Brown (Oloyin),Grains,Enugu,4500,16,72000,3200,40.6,On-Time
+2025-08-14,Milo Refill 500g,Beverages,Ibadan,7200,20,144000,6000,20,Delayed
+2025-08-14,Indomie Super Pack,Noodles,Kano,20000,16,320000,16800,19,Delayed
+2025-08-15,Power Oil (Sachet),Oils,Enugu,500,6,3000,400,25,Delayed
+2025-08-15,Milo Refill 500g,Beverages,Abuja,7200,27,194400,6000,20,Delayed
+2025-08-15,Beans Brown (Oloyin),Grains,Enugu,4500,22,99000,3200,40.6,Delayed
+2025-12-26,Kings Oil 5L,Oils,Lagos (Lekki),27000,15,405000,21500,25.6,Delayed
+2025-08-16,Yellow Garri (Paint),Tubers,Enugu,5500,1,5500,4200,31,Delayed
+2025-08-16,Yellow Garri (Paint),Tubers,Ibadan,5500,23,126500,4200,31,Critical Delay
+2025-08-16,Beans Brown (Oloyin),Grains,Kano,4500,26,117000,3200,40.6,On-Time
+2025-08-16,Kings Oil 5L,Oils,Abuja,27000,10,270000,21500,25.6,On-Time
+2025-08-17,Local Rice (50kg),Grains,Lagos (Ikeja),120000,5,600000,105000,14.3,On-Time
+2025-08-17,Dangote Sugar 1kg,Sweeteners,Lagos (Ikeja),4000,14,56000,3200,25,On-Time
+2025-08-17,Local Rice (50kg),Grains,Port Harcourt,119500,13,1553500,105000,13.8,On-Time
+2025-08-17,Power Oil (Sachet),Oils,Enugu,500,20,10000,400,25,Delayed
+2025-08-18,Milo Refill 500g,Beverages,Abuja,7200,17,122400,6000,20,On-Time
+2025-08-18,Peak Milk 400g,Dairy,Kano,5800,2,11600,4900,18.4,On-Time
+2025-08-18,Frozen Turkey (kg),Meat,Port Harcourt,11000,-1,0,8800,25,Delayed
+2025-08-18,Kings Oil 5L,Oils,Enugu,27000,1,27000,21500,25.6,On-Time
+2025-08-19,Power Oil (Sachet),Oils,Abuja,500,24,12000,400,25,Critical Delay
+2025-08-19,Peak Milk 400g,Dairy,Lagos (Ikeja),5800,28,162400,4900,18.4,Critical Delay
+2025-08-19,Peak Milk 400g,Dairy,Kano,5800,0,0,4900,18.4,On-Time
+2025-08-19,Yam Tuber (Large),Produce,Lagos (Ikeja),12000,18,216000,8000,50,Critical Delay
+2025-08-20,Semovita 10kg,Swallow,Lagos (Ikeja),10500,25,262500,9200,14.1,On-Time
+2025-08-20,Frozen Turkey (kg),Meat,Enugu,11000,13,143000,8800,25,Critical Delay
+2025-08-20,Beans Brown (Oloyin),Grains,Lagos (Ikeja),4500,23,103500,3200,40.6,On-Time
+2025-08-20,Semovita 10kg,Swallow,Enugu,10500,23,241500,9200,14.1,Critical Delay
+2025-08-21,Power Oil (Sachet),Oils,Lagos (Ikeja),0,21,0,400,-100,On-Time
+2025-08-21,Frozen Turkey (kg),Meat,Ibadan,11000,6,66000,8800,25,Delayed
+2025-08-21,Beans Brown (Oloyin),Grains,Ibadan,4500,1,4500,3200,40.6,Critical Delay
+2025-08-21,Indomie Super Pack,Noodles,Lagos (Lekki),20000,3,60000,16800,19,On-Time
+2025-08-22,Local Rice (50kg),Grains,Kano,120000,9,1080000,105000,14.3,Delayed
+2025-08-22,Semovita 10kg,Swallow,Port Harcourt,10500,6,63000,9200,14.1,Delayed
+2025-08-22,Local Rice (50kg),Grains,Lagos (Ikeja),120000,5,600000,105000,14.3,Delayed
+2025-08-22,Frozen Turkey (kg),Meat,Lagos (Lekki),11000,-2,0,8800,25,On-Time
+2025-08-23,Yam Tuber (Large),Produce,Kano,12000,3,36000,8000,50,Delayed
+2025-08-23,Semovita 10kg,Swallow,Lagos (Ikeja),10000,27,270000,9200,8.7,Critical Delay
+2025-08-23,Milo Refill 500g,Beverages,Ibadan,7200,-1,0,6000,20,Delayed
+2025-08-23,Dangote Sugar 1kg,Sweeteners,Enugu,4000,17,68000,3200,25,On-Time
+2025-08-24,Kings Oil 5L,Oils,Lagos (Lekki),27000,21,567000,21500,25.6,Critical Delay
+2025-08-24,Milo Refill 500g,Beverages,Port Harcourt,6700,27,180900,6000,11.7,Delayed
+2025-08-24,Local Rice (50kg),Grains,Port Harcourt,120000,16,1920000,105000,14.3,Delayed
+2025-08-24,Yellow Garri (Paint),Tubers,Ibadan,5500,8,44000,4200,31,Delayed
+2025-08-25,Semovita 10kg,Swallow,Abuja,10500,14,147000,9200,14.1,On-Time
+2025-08-25,Dangote Sugar 1kg,Sweeteners,Ibadan,4000,-1,0,3200,25,Critical Delay
+2025-08-25,Peak Milk 400g,Dairy,Lagos (Ikeja),5800,30,174000,4900,18.4,On-Time
+2025-08-25,Beans Brown (Oloyin),Grains,Ibadan,4500,28,126000,3200,40.6,Critical Delay
+2025-08-26,Indomie Super Pack,Noodles,Lagos (Ikeja),20000,3,60000,16800,19,Delayed
+2025-08-26,Semovita 10kg,Swallow,Ibadan,10500,29,304500,9200,14.1,Critical Delay
+2025-08-26,Semovita 10kg,Swallow,Lagos (Lekki),10500,19,199500,9200,14.1,On-Time
+2025-08-26,Indomie Super Pack,Noodles,Port Harcourt,20000,-2,0,16800,19,Delayed
+2025-08-27,Beans Brown (Oloyin),Grains,Lagos (Lekki),4500,5,22500,3200,40.6,On-Time
+2025-08-27,Milo Refill 500g,Beverages,Lagos (Lekki),7200,13,93600,6000,20,Delayed
+2025-08-27,Frozen Turkey (kg),Meat,Ibadan,11000,15,165000,8800,25,On-Time
+2025-08-27,Peak Milk 400g,Dairy,Lagos (Lekki),5800,16,92800,4900,18.4,Delayed
+2025-08-28,Peak Milk 400g,Dairy,Ibadan,5800,1,5800,4900,18.4,Critical Delay
+2025-08-28,Yam Tuber (Large),Produce,Lagos (Lekki),12000,24,288000,8000,50,On-Time
+2025-08-28,Yellow Garri (Paint),Tubers,Abuja,5500,11,60500,4200,31,Delayed
+2025-08-28,Power Oil (Sachet),Oils,Ibadan,500,10,5000,400,25,Critical Delay
+2025-08-29,Local Rice (50kg),Grains,Lagos (Lekki),120000,17,2040000,105000,14.3,Delayed
+2025-08-29,Beans Brown (Oloyin),Grains,Ibadan,4500,4,18000,3200,40.6,Critical Delay
+2025-08-29,Beans Brown (Oloyin),Grains,Lagos (Lekki),4500,8,36000,3200,40.6,Critical Delay
+2025-08-29,Local Rice (50kg),Grains,Ibadan,119500,23,2748500,105000,13.8,Delayed
+2025-08-30,Dangote Sugar 1kg,Sweeteners,Ibadan,3500,9,31500,3200,9.4,Critical Delay
+2025-08-30,Frozen Turkey (kg),Meat,Abuja,11000,4,44000,8800,25,Critical Delay
+2025-08-30,Local Rice (50kg),Grains,Kano,120000,20,2400000,105000,14.3,Delayed
+2025-08-30,Beans Brown (Oloyin),Grains,Lagos (Ikeja),4500,6,27000,3200,40.6,On-Time
+2025-08-31,Semovita 10kg,Swallow,Enugu,10500,16,168000,9200,14.1,On-Time
+2025-08-31,Frozen Turkey (kg),Meat,Kano,11000,12,132000,8800,25,On-Time
+2025-08-31,Semovita 10kg,Swallow,Lagos (Ikeja),10500,24,252000,9200,14.1,On-Time
+2025-08-31,Semovita 10kg,Swallow,Enugu,10500,1,10500,9200,14.1,On-Time
+2025-09-01,Beans Brown (Oloyin),Grains,Abuja,4500,9,40500,3200,40.6,Delayed
+2025-09-01,Yam Tuber (Large),Produce,Ibadan,12000,2,24000,8000,50,Delayed
+2025-01-09,Indomie Super Pack,Noodles,Enugu,20000,27,540000,16800,19,Critical Delay
+2025-09-01,Frozen Turkey (kg),Meat,Kano,11000,9,99000,8800,25,Delayed
+2025-09-02,Semovita 10kg,Swallow,Port Harcourt,10000,5,50000,9200,8.7,Critical Delay
+2025-09-02,Indomie Super Pack,Noodles,Kano,20000,27,540000,16800,19,Delayed
+2025-02-09,Yellow Garri (Paint),Tubers,Enugu,5500,21,115500,4200,31,On-Time
+2025-09-02,Yellow Garri (Paint),Tubers,Lagos (Lekki),5500,25,137500,4200,31,On-Time
+2025-09-03,Yam Tuber (Large),Produce,Abuja,11500,0,0,8000,43.8,On-Time
+2025-03-09,Yam Tuber (Large),Produce,Ibadan,12000,12,144000,8000,50,Critical Delay
+2025-09-03,Kings Oil 5L,Oils,Port Harcourt,27000,30,810000,21500,25.6,On-Time
+2025-03-09,Dangote Sugar 1kg,Sweeteners,Ibadan,4000,22,88000,3200,25,Critical Delay
+2025-04-09,Beans Brown (Oloyin),Grains,Lagos (Ikeja),4500,29,130500,3200,40.6,Delayed
+2025-09-04,Frozen Turkey (kg),Meat,Lagos (Ikeja),11000,5,55000,8800,25,Critical Delay
+2025-09-04,Power Oil (Sachet),Oils,Lagos (Ikeja),500,21,10500,400,25,Delayed
+2025-04-09,Dangote Sugar 1kg,Sweeteners,Port Harcourt,4000,15,60000,3200,25,On-Time
+2025-09-05,Frozen Turkey (kg),Meat,Lagos (Lekki),10500,12,126000,8800,19.3,On-Time
+2025-05-09,Frozen Turkey (kg),Meat,Lagos (Lekki),11000,25,275000,8800,25,On-Time
+2025-09-05,Peak Milk 400g,Dairy,Abuja,5800,19,110200,4900,18.4,Delayed
+2025-05-09,Yam Tuber (Large),Produce,Ibadan,12000,19,228000,8000,50,Critical Delay
+2025-09-06,Milo Refill 500g,Beverages,Abuja,7200,-2,0,6000,20,Delayed
+2025-09-06,Kings Oil 5L,Oils,Abuja,27000,12,324000,21500,25.6,Delayed
+2025-06-09,Yam Tuber (Large),Produce,Lagos (Lekki),12000,1,12000,8000,50,Critical Delay
+2025-09-06,Peak Milk 400g,Dairy,Lagos (Ikeja),5800,4,23200,4900,18.4,Critical Delay
+2025-09-07,Dangote Sugar 1kg,Sweeteners,Enugu,4000,13,52000,3200,25,Delayed
+2025-09-07,Frozen Turkey (kg),Meat,Lagos (Ikeja),11000,14,154000,8800,25,Critical Delay
+2025-09-07,Beans Brown (Oloyin),Grains,Ibadan,4500,24,108000,3200,40.6,Delayed
+2025-09-07,Peak Milk 400g,Dairy,Lagos (Lekki),5800,14,81200,4900,18.4,Critical Delay
+2025-09-08,Semovita 10kg,Swallow,Lagos (Lekki),10500,22,231000,9200,14.1,Delayed
+2025-09-08,Yam Tuber (Large),Produce,Enugu,12000,11,132000,8000,50,Critical Delay
+2025-09-08,Kings Oil 5L,Oils,Port Harcourt,27000,29,783000,21500,25.6,Critical Delay
+2025-09-08,Dangote Sugar 1kg,Sweeteners,Port Harcourt,4000,6,24000,3200,25,Critical Delay
+2025-09-09,Yam Tuber (Large),Produce,Port Harcourt,12000,13,156000,8000,50,Delayed
+2025-09-09,Kings Oil 5L,Oils,Lagos (Lekki),27000,12,324000,21500,25.6,Critical Delay
+2025-09-09,Yellow Garri (Paint),Tubers,Port Harcourt,5500,13,71500,4200,31,Delayed
+2025-09-09,Power Oil (Sachet),Oils,Port Harcourt,500,12,6000,400,25,Critical Delay
+2025-09-10,Indomie Super Pack,Noodles,Port Harcourt,20000,-1,0,16800,19,On-Time
+2025-10-09,Yellow Garri (Paint),Tubers,Ibadan,5500,6,33000,4200,31,Critical Delay
+2025-10-09,Yellow Garri (Paint),Tubers,Kano,5500,8,44000,4200,31,On-Time
+2025-09-10,Kings Oil 5L,Oils,Lagos (Ikeja),27000,3,81000,21500,25.6,Critical Delay
+2025-09-11,Semovita 10kg,Swallow,Ibadan,10500,17,178500,9200,14.1,Delayed
+2025-11-09,Local Rice (50kg),Grains,Kano,120000,20,2400000,105000,14.3,Delayed
+2025-11-09,Local Rice (50kg),Grains,Lagos (Ikeja),120000,22,2640000,105000,14.3,Critical Delay
+2025-11-09,Peak Milk 400g,Dairy,Lagos (Lekki),5800,1,5800,4900,18.4,Critical Delay
+2025-09-12,Beans Brown (Oloyin),Grains,Lagos (Ikeja),4500,17,76500,3200,40.6,On-Time
+2025-09-12,Dangote Sugar 1kg,Sweeteners,Port Harcourt,4000,30,120000,3200,25,On-Time
+2025-12-09,Milo Refill 500g,Beverages,Kano,7200,27,194400,6000,20,Delayed
+2025-09-12,Dangote Sugar 1kg,Sweeteners,Ibadan,3500,30,105000,3200,9.4,Delayed
+2025-09-13,Peak Milk 400g,Dairy,Lagos (Lekki),5800,21,121800,4900,18.4,Delayed
+2025-09-13,Kings Oil 5L,Oils,Enugu,27000,20,540000,21500,25.6,Critical Delay
+2025-09-13,Kings Oil 5L,Oils,Ibadan,27000,-2,0,21500,25.6,Delayed
+2025-09-13,Power Oil (Sachet),Oils,Lagos (Lekki),500,18,9000,400,25,Delayed
+2025-09-14,Local Rice (50kg),Grains,Ibadan,119500,0,0,105000,13.8,Critical Delay
+2025-09-14,Yellow Garri (Paint),Tubers,Port Harcourt,5500,28,154000,4200,31,On-Time
+2025-09-14,Peak Milk 400g,Dairy,Port Harcourt,5800,3,17400,4900,18.4,On-Time
+2025-09-14,Indomie Super Pack,Noodles,Lagos (Lekki),20000,0,0,16800,19,Critical Delay
+2025-09-15,Kings Oil 5L,Oils,Enugu,27000,16,432000,21500,25.6,Critical Delay
+2025-09-15,Semovita 10kg,Swallow,Ibadan,10500,1,10500,9200,14.1,Critical Delay
+2025-09-15,Yam Tuber (Large),Produce,Kano,12000,20,240000,8000,50,On-Time
+2025-09-15,Kings Oil 5L,Oils,Enugu,27000,0,0,21500,25.6,Critical Delay
+2025-09-16,Beans Brown (Oloyin),Grains,Port Harcourt,4500,28,126000,3200,40.6,On-Time
+2025-09-16,Yellow Garri (Paint),Tubers,Lagos (Lekki),5500,23,126500,4200,31,On-Time
+2025-09-16,Beans Brown (Oloyin),Grains,Abuja,4500,9,40500,3200,40.6,Delayed
+2025-09-16,Yam Tuber (Large),Produce,Port Harcourt,12000,14,168000,8000,50,Delayed
+2025-09-17,Peak Milk 400g,Dairy,Lagos (Lekki),5800,24,139200,4900,18.4,Critical Delay
+2025-09-17,Milo Refill 500g,Beverages,Enugu,7200,11,79200,6000,20,Delayed
+2025-09-17,Yellow Garri (Paint),Tubers,Lagos (Lekki),5500,15,82500,4200,31,Critical Delay
+2025-09-17,Semovita 10kg,Swallow,Abuja,10500,22,231000,9200,14.1,Delayed
+2025-09-18,Frozen Turkey (kg),Meat,Abuja,11000,4,44000,8800,25,Delayed
+2025-09-18,Local Rice (50kg),Grains,Lagos (Ikeja),120000,1,120000,105000,14.3,On-Time
+2025-09-18,Yellow Garri (Paint),Tubers,Kano,5500,28,154000,4200,31,Critical Delay
+2025-09-18,Kings Oil 5L,Oils,Lagos (Lekki),27000,14,378000,21500,25.6,On-Time
+2025-09-19,Yam Tuber (Large),Produce,Port Harcourt,12000,24,288000,8000,50,Critical Delay
+2025-09-19,Peak Milk 400g,Dairy,Abuja,5800,21,121800,4900,18.4,On-Time
+2025-09-19,Yam Tuber (Large),Produce,Abuja,12000,3,36000,8000,50,On-Time
+2025-09-19,Milo Refill 500g,Beverages,Kano,7200,19,136800,6000,20,On-Time
+2025-09-20,Semovita 10kg,Swallow,Ibadan,10500,27,283500,9200,14.1,Delayed
+2025-09-20,Milo Refill 500g,Beverages,Port Harcourt,7200,15,108000,6000,20,Critical Delay
+2025-09-20,Kings Oil 5L,Oils,Kano,27000,21,567000,21500,25.6,On-Time
+2025-09-20,Milo Refill 500g,Beverages,Kano,7200,23,165600,6000,20,On-Time
+2025-09-21,Local Rice (50kg),Grains,Abuja,119500,17,2031500,105000,13.8,Critical Delay
+2025-09-21,Dangote Sugar 1kg,Sweeteners,Lagos (Ikeja),4000,27,108000,3200,25,Critical Delay
+2025-09-21,Semovita 10kg,Swallow,Abuja,10500,9,94500,9200,14.1,On-Time
+2025-09-21,Yam Tuber (Large),Produce,Kano,11500,17,195500,8000,43.8,Delayed
+2025-09-22,Yam Tuber (Large),Produce,Enugu,12000,22,264000,8000,50,On-Time
+2025-09-22,Indomie Super Pack,Noodles,Abuja,20000,20,400000,16800,19,Delayed
+2025-09-22,Milo Refill 500g,Beverages,Enugu,7200,13,93600,6000,20,Critical Delay
+2025-09-22,Indomie Super Pack,Noodles,Abuja,20000,27,540000,16800,19,Delayed
+2025-09-23,Beans Brown (Oloyin),Grains,Kano,4000,9,36000,3200,25,On-Time
+2025-09-23,Yellow Garri (Paint),Tubers,Kano,5500,22,121000,4200,31,Critical Delay
+2025-09-23,Milo Refill 500g,Beverages,Enugu,7200,-2,0,6000,20,Delayed
+2025-09-23,Yellow Garri (Paint),Tubers,Enugu,5500,12,66000,4200,31,On-Time
+2025-09-24,Local Rice (50kg),Grains,Lagos (Lekki),120000,21,2520000,105000,14.3,On-Time
+2025-09-24,Local Rice (50kg),Grains,Enugu,120000,0,0,105000,14.3,On-Time
+2025-09-24,Frozen Turkey (kg),Meat,Kano,11000,21,231000,8800,25,Critical Delay
+2025-09-24,Frozen Turkey (kg),Meat,Ibadan,11000,28,308000,8800,25,On-Time
+2025-09-25,Yam Tuber (Large),Produce,Lagos (Ikeja),12000,11,132000,8000,50,On-Time
+2025-09-25,Dangote Sugar 1kg,Sweeteners,Enugu,4000,2,8000,3200,25,On-Time
+2025-09-25,Beans Brown (Oloyin),Grains,Lagos (Ikeja),4500,7,31500,3200,40.6,Delayed
+2025-09-25,Milo Refill 500g,Beverages,Ibadan,6700,25,167500,6000,11.7,Delayed
+2025-09-26,Local Rice (50kg),Grains,Port Harcourt,120000,9,1080000,105000,14.3,Delayed
+2025-09-26,Beans Brown (Oloyin),Grains,Enugu,4500,29,130500,3200,40.6,Critical Delay
+2025-09-26,Yellow Garri (Paint),Tubers,Port Harcourt,5500,11,60500,4200,31,Delayed
+2025-09-26,Yellow Garri (Paint),Tubers,Abuja,5500,26,143000,4200,31,Delayed
+2025-09-27,Local Rice (50kg),Grains,Enugu,120000,20,2400000,105000,14.3,On-Time
+2025-09-27,Yellow Garri (Paint),Tubers,Lagos (Lekki),5500,28,154000,4200,31,Critical Delay
+2025-09-27,Indomie Super Pack,Noodles,Ibadan,20000,2,40000,16800,19,On-Time
+2025-09-27,Milo Refill 500g,Beverages,Port Harcourt,7200,18,129600,6000,20,On-Time
+2025-09-28,Power Oil (Sachet),Oils,Lagos (Ikeja),500,7,3500,400,25,On-Time
+2025-09-28,Semovita 10kg,Swallow,Kano,10500,11,115500,9200,14.1,Critical Delay
+2025-09-28,Semovita 10kg,Swallow,Enugu,10500,10,105000,9200,14.1,Delayed
+2025-09-28,Power Oil (Sachet),Oils,Lagos (Ikeja),500,1,500,400,25,Critical Delay
+2025-09-29,Kings Oil 5L,Oils,Abuja,27000,18,486000,21500,25.6,Delayed
+2025-09-29,Indomie Super Pack,Noodles,Lagos (Lekki),20000,3,60000,16800,19,Delayed
+2025-09-29,Power Oil (Sachet),Oils,Kano,500,6,3000,400,25,Delayed
+2025-09-29,Local Rice (50kg),Grains,Kano,120000,0,0,105000,14.3,On-Time
+2025-09-30,Dangote Sugar 1kg,Sweeteners,Lagos (Ikeja),4000,14,56000,3200,25,Delayed
+2025-09-30,Dangote Sugar 1kg,Sweeteners,Lagos (Ikeja),4000,19,76000,3200,25,Delayed
+2025-09-30,Milo Refill 500g,Beverages,Lagos (Ikeja),7200,4,28800,6000,20,Critical Delay
+2025-09-30,Semovita 10kg,Swallow,Lagos (Ikeja),10500,14,147000,9200,14.1,On-Time
+2025-10-01,Dangote Sugar 1kg,Sweeteners,Lagos (Ikeja),4000,27,108000,3200,25,On-Time
+2025-10-01,Beans Brown (Oloyin),Grains,Port Harcourt,4500,26,117000,3200,40.6,Critical Delay
+2025-10-01,Frozen Turkey (kg),Meat,Port Harcourt,11000,21,231000,8800,25,On-Time
+2025-10-01,Milo Refill 500g,Beverages,Kano,7200,5,36000,6000,20,Delayed
+2025-02-10,Kings Oil 5L,Oils,Abuja,27000,13,351000,21500,25.6,On-Time
+2025-02-10,Kings Oil 5L,Oils,Kano,27000,21,567000,21500,25.6,Delayed
+2025-02-10,Local Rice (50kg),Grains,Lagos (Lekki),120000,-1,0,105000,14.3,Delayed
+2025-10-02,Semovita 10kg,Swallow,Ibadan,10500,0,0,9200,14.1,Delayed
+2025-10-03,Semovita 10kg,Swallow,Ibadan,10500,10,105000,9200,14.1,On-Time
+2025-03-10,Yam Tuber (Large),Produce,Port Harcourt,12000,-1,0,8000,50,Delayed
+2025-10-03,Indomie Super Pack,Noodles,Ibadan,20000,24,480000,16800,19,Critical Delay
+2025-03-10,Local Rice (50kg),Grains,Enugu,120000,30,3600000,105000,14.3,Delayed
+2025-04-10,Beans Brown (Oloyin),Grains,Port Harcourt,4500,0,0,3200,40.6,Delayed
+2025-10-04,Indomie Super Pack,Noodles,Lagos (Ikeja),20000,20,400000,16800,19,On-Time
+2025-10-04,Kings Oil 5L,Oils,Enugu,27000,5,135000,21500,25.6,Critical Delay
+2025-10-04,Beans Brown (Oloyin),Grains,Lagos (Lekki),4500,23,103500,3200,40.6,Critical Delay
+2025-10-05,Local Rice (50kg),Grains,Port Harcourt,120000,18,2160000,105000,14.3,Delayed
+2025-05-10,Dangote Sugar 1kg,Sweeteners,Abuja,4000,6,24000,3200,25,On-Time
+2025-10-05,Power Oil (Sachet),Oils,Ibadan,500,6,3000,400,25,On-Time
+2025-05-10,Yellow Garri (Paint),Tubers,Abuja,5500,8,44000,4200,31,On-Time
+2025-10-06,Milo Refill 500g,Beverages,Ibadan,7200,29,208800,6000,20,Delayed
+2025-06-10,Semovita 10kg,Swallow,Lagos (Ikeja),10500,6,63000,9200,14.1,Delayed
+2025-10-06,Local Rice (50kg),Grains,Abuja,120000,10,1200000,105000,14.3,Delayed
+2025-10-06,Dangote Sugar 1kg,Sweeteners,Port Harcourt,4000,-2,0,3200,25,Critical Delay
+2025-10-07,Milo Refill 500g,Beverages,Lagos (Lekki),7200,-2,0,6000,20,On-Time
+2025-10-07,Local Rice (50kg),Grains,Abuja,120000,4,480000,105000,14.3,Delayed
+2025-07-10,Dangote Sugar 1kg,Sweeteners,Kano,4000,7,28000,3200,25,Delayed
+2025-07-10,Peak Milk 400g,Dairy,Kano,5800,15,87000,4900,18.4,Critical Delay
+2025-08-10,Yam Tuber (Large),Produce,Enugu,12000,2,24000,8000,50,On-Time
+2025-10-08,Beans Brown (Oloyin),Grains,Lagos (Ikeja),4500,29,130500,3200,40.6,Delayed
+2025-10-08,Power Oil (Sachet),Oils,Enugu,500,-1,0,400,25,Critical Delay
+2025-08-10,Dangote Sugar 1kg,Sweeteners,Ibadan,4000,26,104000,3200,25,Critical Delay
+2025-09-10,Indomie Super Pack,Noodles,Kano,20000,29,580000,16800,19,Delayed
+2025-10-09,Beans Brown (Oloyin),Grains,Kano,4500,-1,0,3200,40.6,Delayed
+2025-09-10,Yam Tuber (Large),Produce,Abuja,11500,24,276000,8000,43.8,On-Time
+2025-09-10,Peak Milk 400g,Dairy,Enugu,5800,24,139200,4900,18.4,Critical Delay
+2025-10-10,Peak Milk 400g,Dairy,Abuja,5800,8,46400,4900,18.4,Delayed
+2025-10-10,Beans Brown (Oloyin),Grains,Ibadan,4000,17,68000,3200,25,On-Time
+2025-10-10,Frozen Turkey (kg),Meat,Lagos (Ikeja),11000,14,154000,8800,25,On-Time
+2025-10-10,Indomie Super Pack,Noodles,Ibadan,20000,10,200000,16800,19,On-Time
+2025-10-11,Indomie Super Pack,Noodles,Kano,20000,8,160000,16800,19,Delayed
+2025-10-11,Yellow Garri (Paint),Tubers,Ibadan,5500,30,165000,4200,31,Delayed
+2025-10-11,Frozen Turkey (kg),Meat,Kano,11000,25,275000,8800,25,On-Time
+2025-11-10,Kings Oil 5L,Oils,Abuja,27000,15,405000,21500,25.6,Critical Delay
+2025-10-12,Power Oil (Sachet),Oils,Lagos (Lekki),0,27,0,400,-100,On-Time
+2025-12-10,Yam Tuber (Large),Produce,Port Harcourt,12000,23,276000,8000,50,Delayed
+2025-12-10,Yellow Garri (Paint),Tubers,Port Harcourt,5500,12,66000,4200,31,On-Time
+2025-12-10,Yam Tuber (Large),Produce,Abuja,12000,13,156000,8000,50,On-Time
+2025-10-13,Frozen Turkey (kg),Meat,Port Harcourt,11000,28,308000,8800,25,Critical Delay
+2025-10-13,Local Rice (50kg),Grains,Kano,120000,5,600000,105000,14.3,Critical Delay
+2025-10-13,Beans Brown (Oloyin),Grains,Enugu,4500,9,40500,3200,40.6,On-Time
+2025-10-13,Beans Brown (Oloyin),Grains,Enugu,4500,19,85500,3200,40.6,Critical Delay
+2025-10-14,Frozen Turkey (kg),Meat,Abuja,10500,-1,0,8800,19.3,Delayed
+2025-10-14,Beans Brown (Oloyin),Grains,Lagos (Ikeja),4500,4,18000,3200,40.6,Delayed
+2025-10-14,Local Rice (50kg),Grains,Lagos (Lekki),120000,0,0,105000,14.3,Delayed
+2025-10-14,Kings Oil 5L,Oils,Ibadan,27000,27,729000,21500,25.6,On-Time
+2025-10-15,Yellow Garri (Paint),Tubers,Lagos (Lekki),5500,6,33000,4200,31,Critical Delay
+2025-10-15,Frozen Turkey (kg),Meat,Port Harcourt,11000,25,275000,8800,25,Critical Delay
+2025-10-15,Beans Brown (Oloyin),Grains,Enugu,4500,17,76500,3200,40.6,On-Time
+2025-10-15,Milo Refill 500g,Beverages,Lagos (Ikeja),7200,-2,0,6000,20,On-Time
+2025-10-16,Kings Oil 5L,Oils,Ibadan,27000,12,324000,21500,25.6,On-Time
+2025-10-16,Frozen Turkey (kg),Meat,Ibadan,11000,24,264000,8800,25,Critical Delay
+2025-10-16,Indomie Super Pack,Noodles,Lagos (Lekki),20000,18,360000,16800,19,Critical Delay
+2025-10-16,Semovita 10kg,Swallow,Lagos (Lekki),10500,28,294000,9200,14.1,Delayed
+2025-10-17,Yam Tuber (Large),Produce,Port Harcourt,12000,15,180000,8000,50,Critical Delay
+2025-10-17,Beans Brown (Oloyin),Grains,Kano,4500,8,36000,3200,40.6,Critical Delay
+2025-10-17,Frozen Turkey (kg),Meat,Abuja,11000,30,330000,8800,25,Critical Delay
+2025-10-17,Power Oil (Sachet),Oils,Abuja,500,6,3000,400,25,Delayed
+2025-10-18,Yam Tuber (Large),Produce,Lagos (Lekki),12000,2,24000,8000,50,Delayed
+2025-10-18,Frozen Turkey (kg),Meat,Ibadan,11000,-2,0,8800,25,Critical Delay
+2025-10-18,Yam Tuber (Large),Produce,Lagos (Ikeja),12000,14,168000,8000,50,Critical Delay
+2025-10-18,Indomie Super Pack,Noodles,Ibadan,20000,17,340000,16800,19,Delayed
+2025-10-19,Power Oil (Sachet),Oils,Lagos (Ikeja),0,26,0,400,-100,On-Time
+2025-10-19,Kings Oil 5L,Oils,Abuja,27000,20,540000,21500,25.6,Delayed
+2025-10-19,Peak Milk 400g,Dairy,Abuja,5800,25,145000,4900,18.4,On-Time
+2025-10-19,Kings Oil 5L,Oils,Abuja,27000,17,459000,21500,25.6,Delayed
+2025-10-20,Milo Refill 500g,Beverages,Lagos (Ikeja),7200,27,194400,6000,20,On-Time
+2025-10-20,Frozen Turkey (kg),Meat,Ibadan,11000,0,0,8800,25,Critical Delay
+2025-10-20,Frozen Turkey (kg),Meat,Kano,11000,4,44000,8800,25,Delayed
+2025-10-20,Semovita 10kg,Swallow,Abuja,10500,14,147000,9200,14.1,Critical Delay
+2025-10-21,Indomie Super Pack,Noodles,Lagos (Lekki),20000,-2,0,16800,19,Delayed
+2025-10-21,Semovita 10kg,Swallow,Lagos (Ikeja),10500,5,52500,9200,14.1,Delayed
+2025-10-21,Yellow Garri (Paint),Tubers,Kano,5500,10,55000,4200,31,Critical Delay
+2025-10-21,Dangote Sugar 1kg,Sweeteners,Port Harcourt,4000,0,0,3200,25,On-Time
+2025-10-22,Dangote Sugar 1kg,Sweeteners,Abuja,4000,-1,0,3200,25,Critical Delay
+2025-10-22,Yam Tuber (Large),Produce,Kano,11500,12,138000,8000,43.8,Critical Delay
+2025-10-22,Kings Oil 5L,Oils,Enugu,27000,13,351000,21500,25.6,Critical Delay
+2025-10-22,Peak Milk 400g,Dairy,Lagos (Ikeja),5800,25,145000,4900,18.4,Critical Delay
+2025-10-23,Frozen Turkey (kg),Meat,Kano,11000,21,231000,8800,25,On-Time
+2025-10-23,Semovita 10kg,Swallow,Ibadan,10500,2,21000,9200,14.1,Delayed
+2025-10-23,Semovita 10kg,Swallow,Kano,10500,-2,0,9200,14.1,On-Time
+2025-10-23,Milo Refill 500g,Beverages,Lagos (Ikeja),7200,1,7200,6000,20,On-Time
+2025-10-24,Peak Milk 400g,Dairy,Lagos (Ikeja),5800,17,98600,4900,18.4,Delayed
+2025-10-24,Beans Brown (Oloyin),Grains,Kano,4500,1,4500,3200,40.6,Critical Delay
+2025-10-24,Frozen Turkey (kg),Meat,Lagos (Ikeja),11000,24,264000,8800,25,Critical Delay
+2025-10-24,Kings Oil 5L,Oils,Kano,26500,11,291500,21500,23.3,Delayed
+2025-10-25,Milo Refill 500g,Beverages,Enugu,7200,17,122400,6000,20,On-Time
+2025-10-25,Power Oil (Sachet),Oils,Lagos (Ikeja),0,1,0,400,-100,Delayed
+2025-10-25,Yam Tuber (Large),Produce,Kano,12000,16,192000,8000,50,Critical Delay
+2025-10-25,Milo Refill 500g,Beverages,Port Harcourt,7200,11,79200,6000,20,Delayed
+2025-10-26,Dangote Sugar 1kg,Sweeteners,Lagos (Lekki),4000,20,80000,3200,25,Critical Delay
+2025-10-26,Indomie Super Pack,Noodles,Lagos (Ikeja),20000,24,480000,16800,19,On-Time
+2025-10-26,Kings Oil 5L,Oils,Kano,27000,0,0,21500,25.6,On-Time
+2025-10-26,Dangote Sugar 1kg,Sweeteners,Abuja,4000,30,120000,3200,25,Critical Delay
+2025-10-27,Dangote Sugar 1kg,Sweeteners,Lagos (Ikeja),4000,15,60000,3200,25,Critical Delay
+2025-10-27,Indomie Super Pack,Noodles,Ibadan,20000,3,60000,16800,19,Delayed
+2025-10-27,Yellow Garri (Paint),Tubers,Lagos (Ikeja),5500,0,0,4200,31,On-Time
+2025-10-27,Indomie Super Pack,Noodles,Ibadan,20000,5,100000,16800,19,On-Time
+2025-10-28,Beans Brown (Oloyin),Grains,Ibadan,4500,21,94500,3200,40.6,On-Time
+2025-10-28,Indomie Super Pack,Noodles,Ibadan,20000,4,80000,16800,19,Critical Delay
+2025-10-28,Dangote Sugar 1kg,Sweeteners,Kano,4000,21,84000,3200,25,Critical Delay
+2025-10-28,Beans Brown (Oloyin),Grains,Port Harcourt,4500,2,9000,3200,40.6,Critical Delay
+2025-10-29,Local Rice (50kg),Grains,Abuja,120000,4,480000,105000,14.3,Delayed
+2025-10-29,Yellow Garri (Paint),Tubers,Ibadan,5500,28,154000,4200,31,Delayed
+2025-10-29,Milo Refill 500g,Beverages,Port Harcourt,7200,26,187200,6000,20,On-Time
+2025-10-29,Milo Refill 500g,Beverages,Abuja,7200,-2,0,6000,20,On-Time
+2025-10-30,Semovita 10kg,Swallow,Lagos (Ikeja),10500,16,168000,9200,14.1,Critical Delay
+2025-10-30,Local Rice (50kg),Grains,Ibadan,120000,0,0,105000,14.3,Critical Delay
+2025-10-30,Frozen Turkey (kg),Meat,Lagos (Lekki),11000,19,209000,8800,25,On-Time
+2025-10-30,Yellow Garri (Paint),Tubers,Lagos (Ikeja),5500,20,110000,4200,31,On-Time
+2025-10-31,Semovita 10kg,Swallow,Port Harcourt,10500,13,136500,9200,14.1,Delayed
+2025-10-31,Local Rice (50kg),Grains,Kano,120000,24,2880000,105000,14.3,On-Time
+2025-10-31,Kings Oil 5L,Oils,Kano,27000,28,756000,21500,25.6,On-Time
+2025-10-31,Peak Milk 400g,Dairy,Enugu,5800,6,34800,4900,18.4,On-Time
+2025-11-01,Dangote Sugar 1kg,Sweeteners,Lagos (Lekki),4000,25,100000,3200,25,On-Time
+2025-01-11,Power Oil (Sachet),Oils,Ibadan,500,22,11000,400,25,On-Time
+2025-11-01,Peak Milk 400g,Dairy,Abuja,5800,24,139200,4900,18.4,On-Time
+2025-11-01,Frozen Turkey (kg),Meat,Enugu,11000,4,44000,8800,25,Critical Delay
+2025-02-11,Semovita 10kg,Swallow,Lagos (Ikeja),10500,6,63000,9200,14.1,Delayed
+2025-11-02,Milo Refill 500g,Beverages,Kano,7200,17,122400,6000,20,On-Time
+2025-11-02,Yellow Garri (Paint),Tubers,Kano,5500,18,99000,4200,31,On-Time
+2025-11-02,Milo Refill 500g,Beverages,Lagos (Ikeja),7200,29,208800,6000,20,Critical Delay
+2025-11-03,Semovita 10kg,Swallow,Port Harcourt,10500,-1,0,9200,14.1,Critical Delay
+2025-11-03,Yam Tuber (Large),Produce,Lagos (Ikeja),12000,-2,0,8000,50,Critical Delay
+2025-03-11,Yellow Garri (Paint),Tubers,Enugu,5500,12,66000,4200,31,Delayed
+2025-11-03,Kings Oil 5L,Oils,Enugu,27000,6,162000,21500,25.6,Delayed
+2025-04-11,Local Rice (50kg),Grains,Lagos (Lekki),120000,25,3000000,105000,14.3,Delayed
+2025-11-04,Frozen Turkey (kg),Meat,Ibadan,11000,3,33000,8800,25,On-Time
+2025-11-04,Yellow Garri (Paint),Tubers,Kano,5500,5,27500,4200,31,On-Time
+2025-04-11,Peak Milk 400g,Dairy,Port Harcourt,5800,10,58000,4900,18.4,Critical Delay
+2025-05-11,Peak Milk 400g,Dairy,Lagos (Lekki),5800,10,58000,4900,18.4,Critical Delay
+2025-11-05,Yam Tuber (Large),Produce,Kano,11500,19,218500,8000,43.8,Critical Delay
+2025-11-05,Indomie Super Pack,Noodles,Port Harcourt,20000,2,40000,16800,19,On-Time
+2025-05-11,Local Rice (50kg),Grains,Abuja,120000,30,3600000,105000,14.3,On-Time
+2025-11-06,Yellow Garri (Paint),Tubers,Lagos (Ikeja),5500,10,55000,4200,31,Critical Delay
+2025-11-06,Power Oil (Sachet),Oils,Abuja,500,-2,0,400,25,On-Time
+2025-06-11,Semovita 10kg,Swallow,Abuja,10500,7,73500,9200,14.1,Delayed
+2025-06-11,Frozen Turkey (kg),Meat,Abuja,11000,20,220000,8800,25,On-Time
+2025-11-07,Kings Oil 5L,Oils,Lagos (Lekki),27000,0,0,21500,25.6,Delayed
+2025-11-07,Local Rice (50kg),Grains,Port Harcourt,120000,14,1680000,105000,14.3,Critical Delay
+2025-11-07,Dangote Sugar 1kg,Sweeteners,Kano,4000,29,116000,3200,25,On-Time
+2025-07-11,Indomie Super Pack,Noodles,Port Harcourt,20000,9,180000,16800,19,Delayed
+2025-08-11,Peak Milk 400g,Dairy,Ibadan,5800,8,46400,4900,18.4,Critical Delay
+2025-11-08,Power Oil (Sachet),Oils,Kano,500,4,2000,400,25,On-Time
+2025-11-08,Milo Refill 500g,Beverages,Enugu,6700,22,147400,6000,11.7,Critical Delay
+2025-11-08,Beans Brown (Oloyin),Grains,Port Harcourt,4500,5,22500,3200,40.6,Delayed
+2025-11-09,Kings Oil 5L,Oils,Kano,27000,22,594000,21500,25.6,On-Time
+2025-09-11,Milo Refill 500g,Beverages,Ibadan,7200,25,180000,6000,20,Critical Delay
+2025-11-09,Semovita 10kg,Swallow,Enugu,10500,6,63000,9200,14.1,Delayed
+2025-11-09,Peak Milk 400g,Dairy,Enugu,5300,10,53000,4900,8.2,Delayed
+2025-11-10,Kings Oil 5L,Oils,Enugu,27000,-1,0,21500,25.6,Delayed
+2025-10-11,Local Rice (50kg),Grains,Enugu,120000,5,600000,105000,14.3,On-Time
+2025-11-10,Frozen Turkey (kg),Meat,Lagos (Lekki),11000,5,55000,8800,25,On-Time
+2025-10-11,Peak Milk 400g,Dairy,Abuja,5800,7,40600,4900,18.4,On-Time
+2025-11-11,Local Rice (50kg),Grains,Abuja,120000,5,600000,105000,14.3,Critical Delay
+2025-11-11,Milo Refill 500g,Beverages,Lagos (Ikeja),7200,19,136800,6000,20,Delayed
+2025-11-11,Semovita 10kg,Swallow,Lagos (Ikeja),10500,18,189000,9200,14.1,On-Time
+2025-11-11,Dangote Sugar 1kg,Sweeteners,Ibadan,4000,3,12000,3200,25,Critical Delay
+2025-12-26,Local Rice (50kg),Grains,Abuja,120000,14,1680000,105000,14.3,On-Time
+2025-12-11,Semovita 10kg,Swallow,Enugu,10500,6,63000,9200,14.1,On-Time
+2025-11-12,Power Oil (Sachet),Oils,Lagos (Lekki),500,24,12000,400,25,Delayed
+2025-11-12,Semovita 10kg,Swallow,Kano,10500,29,304500,9200,14.1,Delayed
+2025-11-13,Frozen Turkey (kg),Meat,Lagos (Ikeja),11000,30,330000,8800,25,Delayed
+2025-11-13,Indomie Super Pack,Noodles,Kano,20000,16,320000,16800,19,Delayed
+2025-11-13,Semovita 10kg,Swallow,Abuja,10500,-2,0,9200,14.1,Critical Delay
+2025-11-13,Yam Tuber (Large),Produce,Lagos (Ikeja),12000,22,264000,8000,50,Critical Delay
+2025-11-14,Yellow Garri (Paint),Tubers,Ibadan,5500,9,49500,4200,31,On-Time
+2025-11-14,Yam Tuber (Large),Produce,Ibadan,12000,14,168000,8000,50,Delayed
+2025-11-14,Yellow Garri (Paint),Tubers,Kano,5500,23,126500,4200,31,On-Time
+2025-11-14,Kings Oil 5L,Oils,Abuja,27000,29,783000,21500,25.6,Delayed
+2025-11-15,Indomie Super Pack,Noodles,Enugu,20000,7,140000,16800,19,Critical Delay
+2025-11-15,Yam Tuber (Large),Produce,Kano,12000,6,72000,8000,50,Critical Delay
+2025-11-15,Indomie Super Pack,Noodles,Lagos (Lekki),20000,21,420000,16800,19,Critical Delay
+2025-11-15,Beans Brown (Oloyin),Grains,Abuja,4500,26,117000,3200,40.6,Critical Delay
+2025-11-16,Dangote Sugar 1kg,Sweeteners,Lagos (Lekki),4000,13,52000,3200,25,Critical Delay
+2025-11-16,Milo Refill 500g,Beverages,Lagos (Lekki),6700,-1,0,6000,11.7,Critical Delay
+2025-11-16,Local Rice (50kg),Grains,Lagos (Lekki),120000,18,2160000,105000,14.3,Critical Delay
+2025-11-16,Local Rice (50kg),Grains,Enugu,120000,23,2760000,105000,14.3,Delayed
+2025-11-17,Indomie Super Pack,Noodles,Enugu,20000,24,480000,16800,19,Delayed
+2025-11-17,Yellow Garri (Paint),Tubers,Kano,5500,17,93500,4200,31,Delayed
+2025-11-17,Kings Oil 5L,Oils,Port Harcourt,27000,1,27000,21500,25.6,Critical Delay
+2025-11-17,Dangote Sugar 1kg,Sweeteners,Enugu,4000,7,28000,3200,25,Delayed
+2025-11-18,Local Rice (50kg),Grains,Lagos (Ikeja),120000,16,1920000,105000,14.3,On-Time
+2025-11-18,Indomie Super Pack,Noodles,Enugu,20000,15,300000,16800,19,On-Time
+2025-11-18,Kings Oil 5L,Oils,Port Harcourt,27000,9,243000,21500,25.6,On-Time
+2025-11-18,Milo Refill 500g,Beverages,Kano,7200,8,57600,6000,20,Delayed
+2025-11-19,Indomie Super Pack,Noodles,Lagos (Lekki),20000,15,300000,16800,19,On-Time
+2025-11-19,Local Rice (50kg),Grains,Lagos (Lekki),120000,29,3480000,105000,14.3,Critical Delay
+2025-11-19,Milo Refill 500g,Beverages,Abuja,7200,15,108000,6000,20,Delayed
+2025-11-19,Dangote Sugar 1kg,Sweeteners,Lagos (Ikeja),4000,25,100000,3200,25,On-Time
+2025-11-20,Peak Milk 400g,Dairy,Lagos (Ikeja),5800,22,127600,4900,18.4,Critical Delay
+2025-11-20,Indomie Super Pack,Noodles,Lagos (Ikeja),20000,22,440000,16800,19,Critical Delay
+2025-11-20,Local Rice (50kg),Grains,Abuja,120000,20,2400000,105000,14.3,Critical Delay
+2025-11-20,Yellow Garri (Paint),Tubers,Port Harcourt,5500,-2,0,4200,31,Delayed
+2025-11-21,Power Oil (Sachet),Oils,Port Harcourt,500,28,14000,400,25,Delayed
+2025-11-21,Peak Milk 400g,Dairy,Enugu,5800,6,34800,4900,18.4,On-Time
+2025-11-21,Frozen Turkey (kg),Meat,Port Harcourt,11000,21,231000,8800,25,Delayed
+2025-11-21,Semovita 10kg,Swallow,Lagos (Lekki),10500,23,241500,9200,14.1,On-Time
+2025-11-22,Kings Oil 5L,Oils,Port Harcourt,27000,9,243000,21500,25.6,On-Time
+2025-11-22,Local Rice (50kg),Grains,Kano,120000,26,3120000,105000,14.3,Critical Delay
+2025-11-22,Peak Milk 400g,Dairy,Lagos (Lekki),5800,20,116000,4900,18.4,Delayed
+2025-11-22,Yellow Garri (Paint),Tubers,Lagos (Ikeja),5500,29,159500,4200,31,Delayed
+2025-11-23,Semovita 10kg,Swallow,Ibadan,10500,23,241500,9200,14.1,Delayed
+2025-11-23,Indomie Super Pack,Noodles,Port Harcourt,20000,13,260000,16800,19,On-Time
+2025-11-23,Peak Milk 400g,Dairy,Lagos (Ikeja),5800,16,92800,4900,18.4,Critical Delay
+2025-11-23,Yellow Garri (Paint),Tubers,Kano,5500,25,137500,4200,31,Critical Delay
+2025-11-24,Frozen Turkey (kg),Meat,Abuja,11000,19,209000,8800,25,Delayed
+2025-11-24,Peak Milk 400g,Dairy,Kano,5800,24,139200,4900,18.4,On-Time
+2025-11-24,Indomie Super Pack,Noodles,Enugu,20000,0,0,16800,19,On-Time
+2025-11-24,Yam Tuber (Large),Produce,Abuja,12000,21,252000,8000,50,On-Time
+2025-11-25,Dangote Sugar 1kg,Sweeteners,Port Harcourt,4000,20,80000,3200,25,Critical Delay
+2025-11-25,Dangote Sugar 1kg,Sweeteners,Port Harcourt,4000,0,0,3200,25,On-Time
+2025-11-25,Yellow Garri (Paint),Tubers,Enugu,5500,9,49500,4200,31,On-Time
+2025-11-25,Local Rice (50kg),Grains,Ibadan,120000,26,3120000,105000,14.3,On-Time
+2025-11-26,Yam Tuber (Large),Produce,Kano,12000,24,288000,8000,50,Delayed
+2025-11-26,Dangote Sugar 1kg,Sweeteners,Enugu,4000,29,116000,3200,25,Critical Delay
+2025-11-26,Indomie Super Pack,Noodles,Lagos (Lekki),20000,10,200000,16800,19,On-Time
+2025-11-26,Kings Oil 5L,Oils,Ibadan,27000,22,594000,21500,25.6,On-Time
+2025-11-27,Beans Brown (Oloyin),Grains,Abuja,4500,-2,0,3200,40.6,Delayed
+2025-11-27,Dangote Sugar 1kg,Sweeteners,Port Harcourt,4000,30,120000,3200,25,Critical Delay
+2025-11-27,Dangote Sugar 1kg,Sweeteners,Kano,4000,8,32000,3200,25,Critical Delay
+2025-11-27,Semovita 10kg,Swallow,Kano,10500,30,315000,9200,14.1,Delayed
+2025-11-28,Milo Refill 500g,Beverages,Abuja,7200,6,43200,6000,20,Delayed
+2025-11-28,Kings Oil 5L,Oils,Lagos (Lekki),27000,10,270000,21500,25.6,On-Time
+2025-11-28,Semovita 10kg,Swallow,Enugu,10500,30,315000,9200,14.1,Delayed
+2025-11-28,Local Rice (50kg),Grains,Ibadan,120000,22,2640000,105000,14.3,Delayed
+2025-11-29,Frozen Turkey (kg),Meat,Lagos (Ikeja),11000,8,88000,8800,25,Critical Delay
+2025-11-29,Local Rice (50kg),Grains,Lagos (Ikeja),120000,13,1560000,105000,14.3,Delayed
+2025-11-29,Power Oil (Sachet),Oils,Ibadan,500,4,2000,400,25,Critical Delay
+2025-11-29,Kings Oil 5L,Oils,Kano,27000,9,243000,21500,25.6,Critical Delay
+2025-11-30,Kings Oil 5L,Oils,Port Harcourt,27000,-1,0,21500,25.6,Critical Delay
+2025-11-30,Power Oil (Sachet),Oils,Enugu,500,21,10500,400,25,Critical Delay
+2025-11-30,Milo Refill 500g,Beverages,Abuja,7200,-2,0,6000,20,Critical Delay
+2025-11-30,Yellow Garri (Paint),Tubers,Lagos (Lekki),5500,30,165000,4200,31,On-Time
+2025-12-01,Frozen Turkey (kg),Meat,Port Harcourt,11000,23,253000,8800,25,Critical Delay
+2025-12-01,Semovita 10kg,Swallow,Ibadan,10500,7,73500,9200,14.1,Critical Delay
+2025-01-12,Kings Oil 5L,Oils,Port Harcourt,27000,7,189000,21500,25.6,On-Time
+2025-12-01,Yellow Garri (Paint),Tubers,Ibadan,5500,16,88000,4200,31,On-Time
+2025-12-02,Dangote Sugar 1kg,Sweeteners,Lagos (Lekki),4000,29,116000,3200,25,On-Time
+2025-12-02,Power Oil (Sachet),Oils,Port Harcourt,500,14,7000,400,25,On-Time
+2025-02-12,Local Rice (50kg),Grains,Kano,120000,25,3000000,105000,14.3,Delayed
+2025-12-02,Yam Tuber (Large),Produce,Enugu,12000,16,192000,8000,50,Delayed
+2025-03-12,Indomie Super Pack,Noodles,Abuja,20000,14,280000,16800,19,Delayed
+2025-12-03,Yam Tuber (Large),Produce,Abuja,12000,13,156000,8000,50,On-Time
+2025-12-03,Power Oil (Sachet),Oils,Kano,500,7,3500,400,25,On-Time
+2025-12-03,Semovita 10kg,Swallow,Kano,10500,27,283500,9200,14.1,Critical Delay
+2025-04-12,Yellow Garri (Paint),Tubers,Lagos (Ikeja),5000,8,40000,4200,19,Critical Delay
+2025-12-04,Power Oil (Sachet),Oils,Kano,500,10,5000,400,25,Critical Delay
+2025-12-04,Peak Milk 400g,Dairy,Enugu,5800,11,63800,4900,18.4,Delayed
+2025-04-12,Beans Brown (Oloyin),Grains,Lagos (Ikeja),4500,5,22500,3200,40.6,Critical Delay
+2025-12-05,Local Rice (50kg),Grains,Enugu,120000,24,2880000,105000,14.3,On-Time
+2025-05-12,Local Rice (50kg),Grains,Lagos (Ikeja),120000,21,2520000,105000,14.3,Delayed
+2025-12-05,Indomie Super Pack,Noodles,Port Harcourt,20000,6,120000,16800,19,On-Time
+2025-05-12,Yam Tuber (Large),Produce,Enugu,12000,3,36000,8000,50,Delayed
+2025-06-12,Peak Milk 400g,Dairy,Abuja,5800,29,168200,4900,18.4,On-Time
+2025-12-06,Yam Tuber (Large),Produce,Enugu,11500,10,115000,8000,43.8,Critical Delay
+2025-12-06,Local Rice (50kg),Grains,Lagos (Ikeja),120000,6,720000,105000,14.3,Delayed
+2025-12-06,Peak Milk 400g,Dairy,Ibadan,5800,16,92800,4900,18.4,Critical Delay
+2025-12-07,Milo Refill 500g,Beverages,Kano,7200,18,129600,6000,20,On-Time
+2025-12-07,Local Rice (50kg),Grains,Lagos (Lekki),120000,0,0,105000,14.3,Critical Delay
+2025-12-07,Local Rice (50kg),Grains,Enugu,120000,10,1200000,105000,14.3,Critical Delay
+2025-12-07,Local Rice (50kg),Grains,Lagos (Lekki),120000,12,1440000,105000,14.3,Critical Delay
+2025-12-08,Dangote Sugar 1kg,Sweeteners,Abuja,4000,5,20000,3200,25,Critical Delay
+2025-12-08,Local Rice (50kg),Grains,Lagos (Lekki),120000,29,3480000,105000,14.3,On-Time
+2025-12-08,Yam Tuber (Large),Produce,Lagos (Ikeja),12000,29,348000,8000,50,Delayed
+2025-12-08,Yam Tuber (Large),Produce,Port Harcourt,12000,28,336000,8000,50,Critical Delay
+2025-12-09,Yellow Garri (Paint),Tubers,Port Harcourt,5500,8,44000,4200,31,On-Time
+2025-12-09,Semovita 10kg,Swallow,Lagos (Ikeja),10000,-1,0,9200,8.7,Critical Delay
+2025-12-09,Dangote Sugar 1kg,Sweeteners,Enugu,3500,23,80500,3200,9.4,Critical Delay
+2025-12-09,Peak Milk 400g,Dairy,Lagos (Ikeja),5800,17,98600,4900,18.4,On-Time
+2025-12-10,Peak Milk 400g,Dairy,Ibadan,5800,10,58000,4900,18.4,Critical Delay
+2025-10-12,Dangote Sugar 1kg,Sweeteners,Lagos (Lekki),4000,8,32000,3200,25,On-Time
+2025-10-12,Kings Oil 5L,Oils,Enugu,27000,1,27000,21500,25.6,Delayed
+2025-10-12,Frozen Turkey (kg),Meat,Enugu,11000,7,77000,8800,25,On-Time
+2025-12-11,Indomie Super Pack,Noodles,Port Harcourt,20000,2,40000,16800,19,On-Time
+2025-12-11,Kings Oil 5L,Oils,Abuja,27000,12,324000,21500,25.6,Critical Delay
+2025-12-11,Dangote Sugar 1kg,Sweeteners,Enugu,4000,-2,0,3200,25,On-Time
+2025-11-12,Yellow Garri (Paint),Tubers,Enugu,5500,10,55000,4200,31,Critical Delay
+2025-12-12,Local Rice (50kg),Grains,Abuja,120000,17,2040000,105000,14.3,On-Time
+2025-12-12,Peak Milk 400g,Dairy,Kano,5800,21,121800,4900,18.4,Delayed
+2025-12-12,Kings Oil 5L,Oils,Enugu,27000,13,351000,21500,25.6,On-Time
+2025-12-12,Yam Tuber (Large),Produce,Ibadan,12000,5,60000,8000,50,On-Time
+2025-12-13,Power Oil (Sachet),Oils,Lagos (Ikeja),500,19,9500,400,25,On-Time
+2025-12-13,Beans Brown (Oloyin),Grains,Ibadan,4500,3,13500,3200,40.6,Critical Delay
+2025-12-13,Yellow Garri (Paint),Tubers,Lagos (Lekki),5500,0,0,4200,31,Critical Delay
+2025-12-13,Milo Refill 500g,Beverages,Enugu,7200,30,216000,6000,20,Critical Delay
+2025-12-14,Yellow Garri (Paint),Tubers,Enugu,5500,19,104500,4200,31,Delayed
+2025-12-14,Beans Brown (Oloyin),Grains,Lagos (Ikeja),4000,27,108000,3200,25,On-Time
+2025-12-14,Frozen Turkey (kg),Meat,Enugu,11000,11,121000,8800,25,On-Time
+2025-12-14,Peak Milk 400g,Dairy,Kano,5800,26,150800,4900,18.4,On-Time
+2025-12-15,Local Rice (50kg),Grains,Port Harcourt,120000,3,360000,105000,14.3,Delayed
+2025-12-15,Kings Oil 5L,Oils,Lagos (Lekki),27000,6,162000,21500,25.6,Critical Delay
+2025-12-15,Beans Brown (Oloyin),Grains,Lagos (Lekki),4000,15,60000,3200,25,Critical Delay
+2025-12-15,Milo Refill 500g,Beverages,Abuja,7200,-2,0,6000,20,On-Time
+2025-12-16,Kings Oil 5L,Oils,Lagos (Lekki),27000,28,756000,21500,25.6,Delayed
+2025-12-16,Yellow Garri (Paint),Tubers,Kano,5500,21,115500,4200,31,Critical Delay
+2025-12-16,Local Rice (50kg),Grains,Lagos (Lekki),120000,20,2400000,105000,14.3,Delayed
+2025-12-16,Beans Brown (Oloyin),Grains,Ibadan,4500,28,126000,3200,40.6,Delayed
+2025-12-17,Local Rice (50kg),Grains,Kano,120000,14,1680000,105000,14.3,On-Time
+2025-12-17,Milo Refill 500g,Beverages,Abuja,7200,4,28800,6000,20,Delayed
+2025-12-17,Power Oil (Sachet),Oils,Enugu,500,13,6500,400,25,Delayed
+2025-12-17,Yellow Garri (Paint),Tubers,Abuja,5500,15,82500,4200,31,On-Time
+2025-12-18,Beans Brown (Oloyin),Grains,Lagos (Ikeja),4500,29,130500,3200,40.6,Delayed
+2025-12-18,Kings Oil 5L,Oils,Kano,27000,18,486000,21500,25.6,Delayed
+2025-12-18,Indomie Super Pack,Noodles,Ibadan,20000,21,420000,16800,19,Delayed
+2025-12-18,Yam Tuber (Large),Produce,Lagos (Ikeja),12000,15,180000,8000,50,Critical Delay
+2025-12-19,Yellow Garri (Paint),Tubers,Kano,5500,13,71500,4200,31,On-Time
+2025-12-19,Local Rice (50kg),Grains,Enugu,120000,29,3480000,105000,14.3,Critical Delay
+2025-12-19,Yam Tuber (Large),Produce,Kano,12000,19,228000,8000,50,Critical Delay
+2025-12-19,Kings Oil 5L,Oils,Kano,27000,-2,0,21500,25.6,On-Time
+2025-12-20,Power Oil (Sachet),Oils,Port Harcourt,500,16,8000,400,25,Delayed
+2025-12-20,Kings Oil 5L,Oils,Ibadan,27000,11,297000,21500,25.6,Delayed
+2025-12-20,Yellow Garri (Paint),Tubers,Kano,5500,27,148500,4200,31,Delayed
+2025-12-20,Dangote Sugar 1kg,Sweeteners,Abuja,4000,9,36000,3200,25,Delayed
+2025-12-21,Beans Brown (Oloyin),Grains,Port Harcourt,4500,17,76500,3200,40.6,Critical Delay
+2025-12-21,Kings Oil 5L,Oils,Enugu,27000,0,0,21500,25.6,On-Time
+2025-12-21,Kings Oil 5L,Oils,Abuja,27000,10,270000,21500,25.6,Critical Delay
+2025-12-21,Frozen Turkey (kg),Meat,Port Harcourt,11000,19,209000,8800,25,Critical Delay
+2025-12-22,Indomie Super Pack,Noodles,Enugu,20000,1,20000,16800,19,Delayed
+2025-12-22,Indomie Super Pack,Noodles,Lagos (Ikeja),20000,13,260000,16800,19,On-Time
+2025-12-22,Yellow Garri (Paint),Tubers,Abuja,5500,6,33000,4200,31,On-Time
+2025-12-22,Yam Tuber (Large),Produce,Lagos (Lekki),12000,24,288000,8000,50,Critical Delay
+2025-12-23,Kings Oil 5L,Oils,Ibadan,27000,-1,0,21500,25.6,Delayed
+2025-12-23,Yam Tuber (Large),Produce,Lagos (Lekki),11500,17,195500,8000,43.8,Delayed
+2025-12-23,Indomie Super Pack,Noodles,Abuja,20000,13,260000,16800,19,On-Time
+2025-12-23,Yam Tuber (Large),Produce,Port Harcourt,12000,9,108000,8000,50,On-Time
+2025-12-24,Semovita 10kg,Swallow,Lagos (Ikeja),10500,26,273000,9200,14.1,Delayed
+2025-12-24,Yellow Garri (Paint),Tubers,Kano,5500,11,60500,4200,31,Delayed
+2025-12-24,Peak Milk 400g,Dairy,Kano,5800,0,0,4900,18.4,Critical Delay
+2025-12-24,Semovita 10kg,Swallow,Lagos (Lekki),10500,-2,0,9200,14.1,Delayed
+2025-12-25,Indomie Super Pack,Noodles,Enugu,20000,3,60000,16800,19,On-Time
+2025-12-25,Yellow Garri (Paint),Tubers,Kano,5500,23,126500,4200,31,Critical Delay
+2025-12-25,Yam Tuber (Large),Produce,Abuja,12000,27,324000,8000,50,On-Time
+2025-12-25,Dangote Sugar 1kg,Sweeteners,Lagos (Ikeja),4000,29,116000,3200,25,Critical Delay
+2025-12-26,Kings Oil 5L,Oils,Port Harcourt,27000,15,405000,21500,25.6,Delayed
+2025-12-26,Indomie Super Pack,Noodles,Abuja,20000,13,260000,16800,19,Critical Delay
+2025-12-26,Milo Refill 500g,Beverages,Abuja,7200,23,165600,6000,20,Critical Delay
+2025-12-26,Dangote Sugar 1kg,Sweeteners,Kano,4000,14,56000,3200,25,On-Time
+2025-12-27,Yellow Garri (Paint),Tubers,Ibadan,5500,-2,0,4200,31,Critical Delay
+2025-12-27,Peak Milk 400g,Dairy,Ibadan,5800,17,98600,4900,18.4,On-Time
+2025-12-27,Beans Brown (Oloyin),Grains,Lagos (Lekki),4500,10,45000,3200,40.6,Delayed
+2025-12-27,Frozen Turkey (kg),Meat,Enugu,11000,17,187000,8800,25,Delayed
+2025-12-28,Yam Tuber (Large),Produce,Kano,12000,28,336000,8000,50,On-Time
+2025-12-28,Milo Refill 500g,Beverages,Ibadan,7200,18,129600,6000,20,On-Time
+2025-12-28,Semovita 10kg,Swallow,Lagos (Ikeja),10500,10,105000,9200,14.1,On-Time
+2025-12-28,Yellow Garri (Paint),Tubers,Enugu,5500,9,49500,4200,31,On-Time
+2025-12-29,Yellow Garri (Paint),Tubers,Abuja,5500,13,71500,4200,31,On-Time
+2025-12-29,Peak Milk 400g,Dairy,Lagos (Lekki),5800,7,40600,4900,18.4,Critical Delay
+2025-12-29,Power Oil (Sachet),Oils,Lagos (Lekki),500,27,13500,400,25,Critical Delay
+2025-12-29,Yellow Garri (Paint),Tubers,Enugu,5500,1,5500,4200,31,Delayed
+2025-12-30,Indomie Super Pack,Noodles,Kano,20000,28,560000,16800,19,Delayed
+2025-12-30,Indomie Super Pack,Noodles,Kano,20000,1,20000,16800,19,Critical Delay
+2025-12-30,Kings Oil 5L,Oils,Port Harcourt,27000,24,648000,21500,25.6,On-Time
+2025-12-30,Kings Oil 5L,Oils,Ibadan,27000,8,216000,21500,25.6,Critical Delay
+2025-12-31,Milo Refill 500g,Beverages,Enugu,7200,2,14400,6000,20,Critical Delay
+2025-12-31,Local Rice (50kg),Grains,Ibadan,120000,8,960000,105000,14.3,Critical Delay
+2025-12-31,Indomie Super Pack,Noodles,Abuja,20000,15,300000,16800,19,Delayed
+2025-12-31,Yam Tuber (Large),Produce,Lagos (Ikeja),12000,2,24000,8000,50,Delayed
+2026-01-01,Yam Tuber (Large),Produce,Port Harcourt,12000,17,204000,8000,50,On-Time
+2026-01-01,Yam Tuber (Large),Produce,Ibadan,12000,4,48000,8000,50,Critical Delay
+2026-01-01,Power Oil (Sachet),Oils,Abuja,500,28,14000,400,25,On-Time
+2026-01-01,Semovita 10kg,Swallow,Kano,10500,15,157500,9200,14.1,On-Time
+2026-02-01,Yellow Garri (Paint),Tubers,Lagos (Lekki),5500,1,5500,4200,31,On-Time
+2026-01-02,Peak Milk 400g,Dairy,Kano,5800,27,156600,4900,18.4,On-Time
+2026-01-02,Power Oil (Sachet),Oils,Enugu,500,-2,0,400,25,Critical Delay
+2026-02-01,Semovita 10kg,Swallow,Port Harcourt,10500,21,220500,9200,14.1,Delayed
+2026-01-03,Milo Refill 500g,Beverages,Port Harcourt,7200,2,14400,6000,20,On-Time
+2026-01-03,Frozen Turkey (kg),Meat,Ibadan,11000,18,198000,8800,25,Delayed
+2026-03-01,Yellow Garri (Paint),Tubers,Abuja,5500,4,22000,4200,31,Delayed
+2026-03-01,Yellow Garri (Paint),Tubers,Lagos (Lekki),5500,15,82500,4200,31,Critical Delay
+2026-01-04,Power Oil (Sachet),Oils,Port Harcourt,500,23,11500,400,25,Delayed
+2026-01-04,Power Oil (Sachet),Oils,Kano,500,11,5500,400,25,Delayed
+2026-01-04,Kings Oil 5L,Oils,Lagos (Lekki),27000,23,621000,21500,25.6,Critical Delay
+2026-04-01,Semovita 10kg,Swallow,Ibadan,10500,10,105000,9200,14.1,Critical Delay
+2026-05-01,Semovita 10kg,Swallow,Ibadan,10500,28,294000,9200,14.1,On-Time
+2026-01-05,Dangote Sugar 1kg,Sweeteners,Lagos (Ikeja),4000,14,56000,3200,25,On-Time
+2026-05-01,Frozen Turkey (kg),Meat,Port Harcourt,11000,11,121000,8800,25,Delayed
+2026-01-05,Local Rice (50kg),Grains,Enugu,120000,18,2160000,105000,14.3,Critical Delay
+2026-01-06,Yellow Garri (Paint),Tubers,Lagos (Lekki),5500,20,110000,4200,31,Critical Delay
+2026-06-01,Beans Brown (Oloyin),Grains,Port Harcourt,4500,-1,0,3200,40.6,On-Time
+2026-06-01,Yellow Garri (Paint),Tubers,Ibadan,5500,9,49500,4200,31,Critical Delay
+2026-06-01,Semovita 10kg,Swallow,Lagos (Ikeja),10500,-2,0,9200,14.1,On-Time
+2026-01-07,Yellow Garri (Paint),Tubers,Enugu,5500,23,126500,4200,31,Delayed
+2026-01-07,Yellow Garri (Paint),Tubers,Lagos (Ikeja),5500,17,93500,4200,31,Delayed
+2026-07-01,Semovita 10kg,Swallow,Ibadan,10500,-1,0,9200,14.1,Critical Delay
+2026-01-07,Kings Oil 5L,Oils,Ibadan,27000,28,756000,21500,25.6,Critical Delay
+2026-08-01,Yellow Garri (Paint),Tubers,Lagos (Lekki),5500,28,154000,4200,31,Delayed
+2026-01-08,Yam Tuber (Large),Produce,Lagos (Lekki),12000,2,24000,8000,50,On-Time
+2026-08-01,Kings Oil 5L,Oils,Lagos (Lekki),27000,8,216000,21500,25.6,Critical Delay
+2026-01-08,Milo Refill 500g,Beverages,Lagos (Ikeja),7200,29,208800,6000,20,Critical Delay
+2026-09-01,Beans Brown (Oloyin),Grains,Lagos (Lekki),4500,14,63000,3200,40.6,Delayed
+2026-01-09,Peak Milk 400g,Dairy,Ibadan,5800,30,174000,4900,18.4,Critical Delay
+2026-09-01,Power Oil (Sachet),Oils,Port Harcourt,500,27,13500,400,25,Delayed
+2026-01-09,Yellow Garri (Paint),Tubers,Lagos (Lekki),5500,27,148500,4200,31,Critical Delay
+2026-01-10,Local Rice (50kg),Grains,Ibadan,120000,18,2160000,105000,14.3,Critical Delay
+2026-10-01,Peak Milk 400g,Dairy,Lagos (Lekki),5800,6,34800,4900,18.4,Delayed
+2026-01-10,Frozen Turkey (kg),Meat,Lagos (Ikeja),11000,27,297000,8800,25,Delayed
+2026-10-01,Yam Tuber (Large),Produce,Kano,12000,11,132000,8000,50,On-Time
