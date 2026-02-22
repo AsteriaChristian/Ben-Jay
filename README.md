@@ -9,4 +9,19 @@ You can find the raw and cleaned datasets in the `data/` folder.
 
 > **Note:** The raw data contained significant formatting errors and currency symbols which were cleaned using SQL.
 
-! [Dashboard](dashboard_main_png)
+<p align="center">
+  <img src="visuals/ben_jay_logo.png" width="300">
+</p>
+
+<h1 align="center">Ben Jay Enterprise: 2025 Sales Audit</h1>
+
+<p align="center">
+  <i>An end-to-end data analytics project uncovering the drivers behind declining retail performance.</i>
+</p>
+
+---
+
+## 📊 The Interactive Dashboard
+<p align="center">
+  <img src="visuals/dashboard_main.png" width="100%" alt="Main Dashboard View">
+</p>
