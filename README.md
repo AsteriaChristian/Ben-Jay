@@ -19,6 +19,18 @@ You can find the raw and cleaned datasets in the `data/` folder.
   <i>An end-to-end data analytics project uncovering the drivers behind declining retail performance.</i>
 </p>
 
+## 💡 Strategic Recommendations for Ben Jay Enterprise
+
+
+
+Based on the data audit, I recommend the following three actions:
+
+1. *Dynamic Pricing Strategy:* Adjust prices for "Top-selling items" to be within 5% of competitor rates to regain market share.
+
+2. *Logistics Optimization:* Investigate the Abuja distribution center to reduce the 35% "Critical Delay" rate identified in the dashboard.
+
+3. *Customer Retention Program:* Launch a "Loyalty Discount" for products with high negative feedback to offset price sensitivity.
+
 ---
 
 <img width="753" height="500" alt="dashboard_main_png" src="https://github.com/user-attachments/assets/23a9e961-71a3-499b-bc10-5e1d20bd85d9" />
