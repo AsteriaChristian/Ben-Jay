@@ -21,7 +21,4 @@ You can find the raw and cleaned datasets in the `data/` folder.
 
 ---
 
-## 📊 The Interactive Dashboard
-<p align="center">
-  <img src="visuals/dashboard_main_png" width="100%" alt="Main Dashboard View">
-</p>
+<img width="753" height="500" alt="dashboard_main_png" src="https://github.com/user-attachments/assets/23a9e961-71a3-499b-bc10-5e1d20bd85d9" />
