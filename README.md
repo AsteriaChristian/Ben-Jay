@@ -9,4 +9,4 @@ You can find the raw and cleaned datasets in the `data/` folder.
 
 > **Note:** The raw data contained significant formatting errors and currency symbols which were cleaned using SQL.
 
-! [Dashboard](dashboard_main_png)
+! [Dashboard](dashboard_main_png).png
