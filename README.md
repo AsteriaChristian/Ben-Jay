@@ -23,5 +23,5 @@ You can find the raw and cleaned datasets in the `data/` folder.
 
 ## 📊 The Interactive Dashboard
 <p align="center">
-  <img src="visuals/dashboard_main.png" width="100%" alt="Main Dashboard View">
+  <img src="visuals/dashboard_main_png" width="100%" alt="Main Dashboard View">
 </p>
