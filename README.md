@@ -8,3 +8,5 @@ You can find the raw and cleaned datasets in the `data/` folder.
 | 2025-01-01 | Peak Milk 400g | 5,800 | 10 | 58,000 |
 
 > **Note:** The raw data contained significant formatting errors and currency symbols which were cleaned using SQL.
+
+! [Dashboard](dashboard_main_png)
